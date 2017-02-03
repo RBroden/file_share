@@ -1,4 +1,5 @@
 const renderer = require('./renderer.js')
+const $ = require('jquery')
 renderer.test("hi")
 /*
  * Use select element #inputType to change view of input
@@ -55,7 +56,7 @@ function onSubmit(){
       break;
 
     case 'url':
-      //console.log("analyze url");
+      processUrl();
       break;
 
     case 'document':
@@ -151,6 +152,19 @@ function processText(){
   }
   // edit word
   // end of processText
+}
+
+function processUrl(){
+  // $ == jquery, this is equal to
+  // document.getElementById('inputUrl').value
+  let url = $('#inputUrl').val();
+  $.ajax({
+    url: url
+  }).done((response)=>{
+    // will take a bit
+    console.log(response);
+  });
+  // end of processUrl
 }
 
 
