@@ -4,18 +4,37 @@
     <meta charset="UTF-8">
     <title>Hello World!</title>
   </head>
+  <link rel="stylesheet" type="text/css" href="style.css">
   <body>
     <h1>Hello World!</h1>
-    <!-- All of the Node.js APIs are available in this renderer process. -->
-    We are using Node.js <script>document.write(process.versions.node)</script>,
-    Chromium <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
+    <!--
+      Using event.preventDefault(); to stop form submission
+      this is not good because it could possibly cause freeze
+      or cancel other processes. replace
+    -->
+    <form onsubmit="event.preventDefault(); onSubmit(); return false;">
+      <select id="inputType">
+        <option></option>
+        <option value="text">Text</option>
+        <option value="url">URL</option>
+        <option value="document">Document</option>
+      </select>
+      <div id="inputTextArea" class="hidden">
+        <label>Text</label>
+        <textarea id="inputText"></textarea>
+      </div>
+      <div id="inputUrlArea" class="hidden">
+        <label>URL</label>
+        <input type="text">
+      </div>
+      <div id="inputDocumentArea" class="hidden">
+        <label>Document</label>
+        <input type="file">
+      </div>
+      <button>Submit</button>
+    </form>
     <ul id="fileList">
     </ul>
   </body>
-
-  <script>
-    // You can also require other files to run in this process
-    require('./renderer.js')
-  </script>
+  <script src="form-functions.js"></script>
 </html>

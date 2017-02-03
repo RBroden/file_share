@@ -1,0 +1,69 @@
+In 1998, Congress amended the Rehabilitation Act of 1973 to require Federal agencies to make their electronic and information technology (EIT) accessible to people with disabilities. Inaccessible technology interferes with an ability to obtain and use information quickly and easily. Section 508 was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage development of technologies that will help achieve these goals. The law applies to all Federal agencies when they develop, procure, maintain, or use electronic and information technology. Under Section 508 (29 U.S.C. ‘794 d), agencies must give disabled employees and members of the public access to information that is comparable to access available to others. It is recommended that you review the laws and regulations listed below to further your understanding about Section 508 and how you can support implementation.
+
+Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended by the Workforce Investment Act of 1998 (P.L. 105-220), August 7, 1998
+
+SEC. 508. ELECTRONIC AND INFORMATION TECHNOLOGY
+
+(a) REQUIREMENTS FOR FEDERAL DEPARTMENTS AND AGENCIES.--
+
+(1) ACCESSIBILITY.--
+
+(A) DEVELOPMENT, PROCUREMENT, MAINTENANCE, OR USE OF ELECTRONIC AND INFORMATION TECHNOLOGY.--When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology--
+
+(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
+
+(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department or agency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
+
+(B) ALTERNATIVE MEANS EFFORTS.--When development, procurement, maintenance, or use of electronic and information technology that meets the standards published by the Access Board under paragraph (2) would impose an undue burden, the Federal department or agency shall provide individuals with disabilities covered by paragraph (1) with the information and data involved by an alternative means of access that allows the individual to use the information and data.
+
+(2) ELECTRONIC AND INFORMATION TECHNOLOGY STANDARDS.--
+
+(A) IN GENERAL.--Not later than 18 months after the date of enactment of the Rehabilitation Act Amendments of 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the 'Access Board'), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth--
+
+(i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)); and
+
+(ii) the technical and functional performance criteria necessary to implement the requirements set forth in paragraph
+
+(1). (B) REVIEW AND AMENDMENT.--The Access Board shall periodically review and, as appropriate, amend the standards required under subparagraph (A) to reflect technological advances or changes in electronic and information technology.
+
+(3) INCORPORATION OF STANDARDS.--Not later than 6 months after the Access Board publishes the standards required under paragraph (2), the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation and each Federal department or agency shall revise the Federal procurement policies and directives under the control of the department or agency to incorporate those standards. Not later than 6 months after the Access Board revises any standards required under paragraph (2), the Council shall revise the Federal Acquisition Regulation and each appropriate Federal department or agency shall revise the procurement policies and directives, as necessary, to incorporate the revisions.
+
+(4) ACQUISITION PLANNING.--In the event that a Federal department or agency determines that compliance with the standards issued by the Access Board under paragraph (2) relating to procurement imposes an undue burden, the documentation by the department or agency supporting the procurement shall explain why compliance creates an undue burden.
+
+(5) EXEMPTION FOR NATIONAL SECURITY SYSTEMS.--This section shall not apply to national security systems, as that term is defined in section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452).
+
+(6) CONSTRUCTION.--
+
+(A) EQUIPMENT.--In a case in which the Federal Government provides access to the public to information or data through electronic and information technology, nothing in this section shall be construed to require a Federal department or agency--
+
+(i) to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public; or
+
+(ii) to purchase equipment for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public.
+
+(B) SOFTWARE AND PERIPHERAL DEVICES.--Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral device at a workstation of a Federal employee who is not an individual with a disability.
+
+(b) TECHNICAL ASSISTANCE.--The Administrator of General Services and the Access Board shall provide technical assistance to individuals and Federal departments and agencies concerning the requirements of this section.
+
+(c) AGENCY EVALUATIONS.--Not later than 6 months after the date of enactment of the Rehabilitation Act Amendments of 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1), compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+
+(d) REPORTS.--
+
+(1) INTERIM REPORT.--Not later than 18 months after the date of enactment of the Rehabilitation Act Amendments of 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1).
+
+(2) BIENNIAL REPORTS.--Not later than 3 years after the date of enactment of the Rehabilitation Act Amendments of 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f).
+
+(e) COOPERATION.--Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) and prepare the reports under subsection (d).
+
+(f) ENFORCEMENT.--
+
+(1) GENERAL.--
+
+(A) COMPLAINTS.--Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
+
+(B) APPLICATION.--This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).
+
+(2) ADMINISTRATIVE COMPLAINTS.--Complaints filed under paragraph (1) shall be filed with the Federal department or agency alleged to be in noncompliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement Section 504 for resolving allegations of discrimination in a federally conducted program or activity.
+
+(3) CIVIL ACTIONS.--The remedies, procedures, and rights set forth in sections 505(a)(2) and 505(b) shall be the remedies, procedures, and rights available to any individual with a disability filing a complaint under paragraph (1).
+
+(g) APPLICATION TO OTHER FEDERAL LAWS.--This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 501 through 505) that provides greater or equal protection for the rights of individuals with disabilities than this section.
