@@ -128,9 +128,6 @@ function processText(){
         analyzedDocument.tags[tagCount] =
         analyzedDocument.words[i].value;
         ++tagCount;
-      //}
-    //iterate over words and search if !exists in commonWords
-    //if it does not exist in commonWords add to tags
     }
   }
 
