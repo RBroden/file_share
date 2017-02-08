@@ -1,0 +1,4 @@
+# ignore all files in directory to keep empty
+*
+# except for this file
+!.gitignore
