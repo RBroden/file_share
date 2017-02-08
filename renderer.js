@@ -26,3 +26,17 @@ fs.readdir("./share",(err,files)=>{
 exports.test = function(message){
   console.log("test"+message);
 };
+
+exports.saveAnalyzedDocument = function(document){
+  var timeInMs = String(Date.now());
+  fs.writeFile(
+    "./analyzedDocuments/"+timeInMs+".json",
+    JSON.stringify(document),
+    function(err) {
+      if(err) {
+          return console.log(err);
+      }
+
+      console.log("The file was saved!");
+  });
+};

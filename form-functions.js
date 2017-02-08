@@ -136,6 +136,7 @@ function processText(){
   }
 
   console.log(analyzedDocument);
+  renderer.saveAnalyzedDocument(analyzedDocument);
 
   // push analyzedDocument to analyzedDocuments
   analyzedDocuments.push(analyzedDocument);
