@@ -40,3 +40,16 @@ exports.saveAnalyzedDocument = function(document){
       console.log("The file was saved!");
   });
 };
+
+exports.generateCommonWords = function(commonWords){
+  fs.writeFile(
+    "./onload/commonWords.json",
+    JSON.stringify(commonWords),
+    function(err) {
+      if(err) {
+          return console.log(err);
+      }
+
+      console.log("The common words were saved!");
+  });
+};

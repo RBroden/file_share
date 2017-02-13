@@ -17,6 +17,16 @@ let inputDocumentArea = document.getElementById("inputDocumentArea");
 // array of results from analyzing documents
 let analyzedDocuments = [];
 let commonWords = [];
+// load common words
+$.ajax({
+  url: './onload/commonWords.json'
+}).done((response)=>{
+  // will take a bit
+  //console.log(response);
+  commonWords = JSON.parse(response);
+  console.log("on load common words");
+  console.log(commonWords);
+});
 
 
 // event listener for select #inputType onchange
@@ -69,7 +79,7 @@ function onSubmit(){
 
   commonWords = findCommonWords();
 
-  console.log(commonWords);
+  //console.log(commonWords);
 
   // keeps form from reloading page
   return false;
@@ -119,7 +129,7 @@ function processText(){
       for(let j=0; j< commonWords.length; ++j){
         if(analyzedDocument.words[i].value ==
           commonWords[j].value){
-          console.log("fount");
+          //console.log("fount");
           //tagAdd = true;
           //break loop2;
           continue loop1;
@@ -135,8 +145,8 @@ function processText(){
     }
   }
 
-  console.log(analyzedDocument);
-  renderer.saveAnalyzedDocument(analyzedDocument);
+  //console.log(analyzedDocument);
+  //renderer.saveAnalyzedDocument(analyzedDocument);
 
   // push analyzedDocument to analyzedDocuments
   analyzedDocuments.push(analyzedDocument);
@@ -177,7 +187,11 @@ function findCommonWords(){
   for(let document of analyzedDocuments){
     wordCount += document.wordCount;
     for(let wordObject of document.words){
-      updateCommonWords(wordObject);
+      //sanitize
+      if(wordObject.value != ""){
+        updateCommonWords(wordObject);
+      }
+
     }
   }
 
@@ -188,7 +202,43 @@ function findCommonWords(){
   //console.log('words');
   //console.log(words);
 
-  return words.slice(0,limit);
+  let mappedWords = words.map((word)=>{
+    word.frequency = word.count / wordCount;
+    return word;
+  });
+
+  let x = 0;
+
+  for(let mappedWord of mappedWords){
+    x += mappedWord.frequency;
+  }
+  //console.log(x);
+
+  let x_avg = x / mappedWords.length;
+  let highest = mappedWords[0].frequency;
+  let highestSampleAvg = (()=>{
+    let sampleAmt = 10;
+    let x = 0;
+    for(let i = 0; i < sampleAmt; i++){
+      x += mappedWords[i].frequency;
+    }
+    return x / sampleAmt;
+  })();
+  let threshold = highestSampleAvg * .1;
+
+  console.log(x_avg);
+  console.log(threshold);
+
+  for(let i = mappedWords.length - 1; i >= 0; --i){
+    // average is too forgiving
+    //if(mappedWords[i].frequency < x_avg) mappedWords.splice(i,1);
+    // try 60% of most frequent word
+    if(mappedWords[i].frequency < threshold) mappedWords.splice(i,1);
+  }
+
+  console.log(mappedWords);
+
+  return mappedWords;
 
   // redundant to function in processText except the array
   // possibly create higher scope function with word and array argument
@@ -202,6 +252,20 @@ function findCommonWords(){
     // the parse(stringify()) creates a deep clone
     words.push(JSON.parse(JSON.stringify(wordObject)));
   }
+}
+
+function clearCommonWords(){
+  commonWords = [];
+  console.log("Clear commonWords");
+  console.log(commonWords);
+}
+
+function generateCommonWords(){
+  renderer.generateCommonWords(commonWords);
+}
+
+function clearConsole(){
+  console.clear();
 }
 
 function createWordObject(word){
