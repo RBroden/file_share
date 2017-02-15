@@ -14,9 +14,12 @@ let inputText = document.getElementById("inputText");
 let inputUrlArea = document.getElementById("inputUrlArea");
 // assign input element #inputDocument to variable
 let inputDocumentArea = document.getElementById("inputDocumentArea");
+// checkbox for developing commonWords
+let inputDevelopCommonWords = document.getElementById("useFormForCommonWords");
 // array of results from analyzing documents
 let analyzedDocuments = [];
 let commonWords = [];
+let developCommonWords = false;
 // load common words
 $.ajax({
   url: './onload/commonWords.json'
@@ -58,6 +61,20 @@ selectInputType.addEventListener("change", function(){
   }
 });
 
+// listens for change event on checkbox for useFormForCommonWords
+inputDevelopCommonWords.addEventListener("change", function(){
+  let developCommonWordsButtons = document.getElementById("developCommonWordsButtons");
+  // use form for developing commonWords
+  if(inputDevelopCommonWords.checked){
+    developCommonWordsButtons.style.display = "block";
+    developCommonWords = true;
+  }
+  else{
+    developCommonWordsButtons.style.display = "none";
+    developCommonWords = false;
+  }
+});
+
 // form submission
 function onSubmit(){
 
@@ -76,8 +93,9 @@ function onSubmit(){
   }
 
   //console.log(analyzedDocuments);
-
-  commonWords = findCommonWords();
+  if(developCommonWords){
+    commonWords = findCommonWords();
+  }
 
   //console.log(commonWords);
 
@@ -94,7 +112,8 @@ function processText(){
     tags: []
   };
   // assign value of input #inputText to variable
-  let text = inputText.value.toLowerCase();
+  let input = inputText.value;
+  let text = input.toLowerCase();
   // split text into sentences by .,!, and ?
   let sentences = text.split(/[\.,!\?]+/);
   // iterate sentences to create results
@@ -105,7 +124,9 @@ function processText(){
     for(let word of sentenceWords){
       // update analyzedDocument words array
       // NEEDS SANITIZATION
-      updateWords(word);
+      if(checkWord(word)){
+        updateWords(word);
+      }
       // end of iterate words
     }
     // end of iterate sentences
@@ -146,7 +167,14 @@ function processText(){
   }
 
   //console.log(analyzedDocument);
-  //renderer.saveAnalyzedDocument(analyzedDocument);
+  if(!developCommonWords){
+    renderer.saveAnalyzedDocument(
+      {
+        "tags" : analyzedDocument.tags,
+        "content" : input
+      }
+    );
+  }
 
   // push analyzedDocument to analyzedDocuments
   analyzedDocuments.push(analyzedDocument);
@@ -188,7 +216,7 @@ function findCommonWords(){
     wordCount += document.wordCount;
     for(let wordObject of document.words){
       //sanitize
-      if(wordObject.value != ""){
+      if(checkWord(wordObject.value)){
         updateCommonWords(wordObject);
       }
 
@@ -268,6 +296,17 @@ function clearConsole(){
   console.clear();
 }
 
+function createWikiNav(){
+  renderer.generateWikiNav();
+}
+
 function createWordObject(word){
   return {value: word, count: 1};
+}
+
+function checkWord(word){
+  if(word.trim() != "" && typeof word == 'string'){
+    return true;
+  }
+  return false;
 }

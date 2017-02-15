@@ -1,0 +1,1283 @@
+How did sports fans live before social media?
+
+We never got any golden moments like this one, that's for sure.
+
+SEE ALSO: NBA star J.R. Smith shares moving photo after baby daughter's preterm birth
+
+With the Super Bowl behind us, the website Pro Football Focus published a list of its 101 best players during the NFL season that was. Not included on the list was Buffalo Bills running back LeSean McCoy, who gained 1,267 rushing yards and scored 13 touchdowns this season.
+
+McCoy took the news in stride. Just kidding.
+
+He took the battle to PFF's Twitter mentions, where he flamed the site's staff with this sophisticated counterpoint on Monday morning.
+
+PFF actually published a companion list explaining why 10 big names — including McCoy — were left off its countdown of the season's top 100 players. Therein, McCoy's stats were praised — but his lacking performance as a blocker was offered as justification for being left out.
+
+There's always next year.
+
+The holograms are coming, the holograms are coming.
+
+At the Sundance Film Festival last month, moviegoers attending the premiere of Marjorie Prime, a movie starring Jon Hamm about a service that provides holographic recreations, were given the opportunity to hang out with an actual Hamm hologram. And those at next month’s SXSW in Austin, Texas, will be able to watch a holographic Buzz Aldrin in a virtual reality film about Mars.
+Advertisement
+
+And later this year, just about anyone will have a chance to interact with realistic human holograms on their mobile phones.
+
+That’s all thanks to Holo, the new app announced today by the mixed reality startup 8i, which is a pioneer in what’s known as volumetric capture, a technology that allows VR and AR content creators to integrate photo-realistic human avatars in their projects.
+
+With Holo, 8i is hoping that a wide variety of creators, including musicians, celebrities, brands, and more will be able to release content featuring holograms. The idea, explained CEO Steve Raymond, is that those creators could "put a hologram of someone famous, funny, or talented, in [their own] environments and create [their own] short-form videos [to] share out to social."
+
+The Holo announcement goes hand in hand with news that 8i has closed a $27 million B round of funding, led by Time Warner Investments, bringing the Los Angeles company’s total funding raised to date to $41 million. Other participants in the new round included Baidu Ventures, Hearst Ventures, Verizon Ventures, and more.
+
+The funding is intended to bolster 8i’s efforts across all its initiatives, from VR to AR. "We’ve got a broad vision for 3D photo-realistic people and content that is bigger than just VR or AR," Raymond said. "It’s really all 3D computing going forward, and that means we need to have the [most realistic-looking] people...and a cloud-processing capability that can scale, and distribution and content partners that can help us show the power" of the platform.
+
+For some time, 8i has been testing a beta version of Holo on the Lenovo Phab 2 Pro, a device that features Tango, an AR technology created by Google. Later this year, 8i plans on releasing Holo publicly on Tango phones, as well as a selection of other mobile devices. At that point, the app will showcase holograms integrated into branded content from some of 8i’s partners.
+
+For now, all the holograms have to be created at 8i’s own capture stage in Los Angeles, since that’s where the company has all of its proprietary volumetric capture equipment and technology set up. But Raymond said that over time, because the company has built a cloud-based content capture pipeline, there’s no reason other professional stages couldn’t be set up, alleviating a bottleneck of content creation.
+
+The long-term vision, he added, is that anyone could buy the equipment necessary to set up their own capture stage.
+
+was a palpable energy in downtown San Francisco today as hundreds of tech workers from LinkedIn, Cisco, Apple and other tech companies came together to talk about the plight of the American immigrant under our current administration.
+
+President Trump recently tried to ban anyone from a list of seven Muslim-majority countries from coming into the United States. The Ninth Circuit Court has thwarted those efforts so far, though Trump plans to appeal that decision. Meanwhile, many legal citizens, green-card holders and even those born here have faced scrutiny at the border.
+
+And here in Silicon Valley, that ban and other efforts against immigrants have a greater impact on tech and the economy. Immigrants have been instrumental in building some of the world’s largest tech companies and Silicon Valley feeds on a constant flow of brain power and innovation from people coming from all over the world.
+
+However, Trump is expected to soon take steps to overhaul the rules for the H-1B visa program, a specialized type of visa given to highly skilled workers, nearly half of which go to those working in Silicon Valley. Both fears of a Muslim ban and the possibility skilled workers may face a denial of entry looms large in the Valley, dashing hopes for those wanting to contribute in the innovation capital.
+
+And then there are those already here and working who may have to uproot their lives and families. Though San Francisco maintains its sanctuary city status, tech workers at the rally today also mentioned being scared of what Trump could do to them and their families here, chanting at various times, “No ban. No wall. Sanctuary for all.”
+
+DoBetter, a nonprofit organization that arranged a protest against Palantir last month, was also behind the event today. In addition to today’s protest, the organization plans on gathering stories of Silicon Valley tech workers who are affected in some way because of their immigrant status in the U.S.
+
+The goal is to not just raise awareness, as Silicon Valley seems pretty up on what’s been happening, but to also possibly change Trump’s mind. “Money matters,” one of the organizers of today’s event and Indiegogo engineer Judy Tuan told TechCrunch. “An immigration ban is super detrimental to the workforce.”
+
+tech worker rally
+
+Another tech worker, Isaac Sanchez, who works as a janitor at Apple headquarters just to the South of San Francisco in Cupertino, California has legal immigration status but mentioned his friends who feared retaliation if they spoke out about what has been happening to them.
+
+“We’re all Americans here and if you don’t want to see that you need some geography classes,” Sanchez told TechCrunch through an interpreter.
+
+Though the crowd was loud and most came out to support the efforts, not everyone seemed to appreciate the message. One older gentleman kept yelling “bullshit” in the back of the crowd until those gathered at the rally started chanting “shame, shame, shame” to get him to leave.
+
+Even in the heart of San Francisco, those hoping to change people’s minds on immigration have a lot of work ahead of them.
+
+Making change (in multiples)
+
+It's tempting to seek to change just one person at a time. After all, if you fail, no one will notice.
+
+It's also tempting to try to change everyone. But of course, there really is no everyone, not any more. Too much noise, too many different situations and narratives. When you try to change everyone, you're mostly giving up.
+
+The third alternative is where real impact happens: Finding a cohort of people who want to change together.
+
+Organizing them and then teaching and leading them.
+
+It's not only peer pressure. But that helps.
+
+When a group is in sync, the change is reinforcing. When people can see how parts of your message resonate with their peers, they're more likely to reconsider them in a positive light. And mostly, as in all modern marketing, "people like us do things like this" is the primary driver.
+
+I got a note from a reader, who asked, "Not only you, but many business authors do promotions like if I buy 2, 10, 100... (or whatever number greater than 1) copies, I get perks. Honestly, I never really got this concept. As I understand, you get the most value out of business/self improvement books, if you buy them for yourself (and when you read them in the right time of your life)."
+
+The thing is, my goal isn't to sell books, it's to make change. And with Your Turn, I took the idea of changing in groups quite seriously. The site doesn't sell single copies, only multiples (when you buy one, I send you two, etc.). Here's what I've discovered after five printings of the book: When an organization (or a team, or a tiny group) all read and talk about the same book, the impact is exponentially greater.
+
+If you want to make change, begin by making culture. Begin by organizing a tightly knit group. Begin by getting people in sync.
+
+Culture beats strategy. So much that culture is strategy.
+
+Lt. Gen. Harold G. Moore, whose fortitude saved most of his outnumbered battalion in 1965 in the first major battle between American and North Vietnamese troops — exploits immortalized in a book and a movie starring Mel Gibson — died on Friday at his home in Auburn, Ala. He was 94.
+
+His death was confirmed by his son Col. David Moore who, like his brother Lt. Col. Stephen Moore and their father, was a West Point graduate.
+
+General Moore recounted his battlefield heroics in 1992 in a best-selling book, “We Were Soldiers Once … and Young,” written with Joseph L. Galloway.
+
+Mr. Galloway, as a 24-year-old war correspondent for United Press International, had witnessed the battle, one of the war’s bloodiest, in the I Drang Valley in November 1965. Mr. Gibson played General Moore in “We Were Soldiers,” the 2002 film adaptation of the book.
+Continue reading the main story
+
+ADVERTISEMENT
+Continue reading the main story
+
+“He was a phenomenal man of great strength and character, courageous and like a father to his troops who got most of his boys out of there after he landed in a hornet’s nest,” Mr. Gibson, who visited the general a few months ago, said on Monday in a phone interview.
+
+General Moore later fended off an antiwar protest by Jane Fonda at a California base and oversaw the sweeping transition to an all-volunteer Army after the war. But no moment in his 32-year military career was as transformational as the brief American victory at I Drang, in shaping both his heroic reputation (he was George Armstrong Custer’s heir as commander of the Seventh Cavalry Regiment) and his view that America’s combat role in Vietnam was futile.
+
+“It wasn’t our place to question,” General Moore wrote with Mr. Galloway in a follow-up book, “We Are Soldiers Still: A Journey Back to the Battlefields of Vietnam” (2008). “We were soldiers and we followed their orders. In times and places like this, where the reasons for war are lacking, soldiers fight and die for each other.”
+Photo
+A wounded soldier from the First Battalion of the Seventh Cavalry after combat in 1965 at I Drang in South Vietnam. Credit Neil Sheehan/The New York Times
+
+The North Vietnamese retreated after the battle, but they went on, with the Vietcong, to wage a successful guerrilla war that ended in 1975 with the fall of Saigon, the South Vietnamese capital.
+
+Years after General Moore retired from active duty in 1977, he visited I Drang with his North Vietnamese battlefield counterpart for an ABC documentary, publicly supported a global ban on the production and use of anti-personnel land mines, and likened the American invasion of Iraq to the protracted war in Vietnam, which, he wrote, ended after 10 years “with a hasty withdrawal just ahead of defeat.”
+
+“His mantra,” his son David said, was “Hate war, love the American soldier.”
+
+General Moore did both. Nicholas Proffitt, a former war correspondent, wrote of “We Were Soldiers Once” in The New York Times Book Review, “General Moore’s respect and affection for his troops is evident on every page, and one can understand why he became one of the legendary commanders in Vietnam.”
+
+And why he hated war.
+
+“As a glimpse into the abyss, into the bilious reality of war, it is a revelation,” Mr. Proffitt wrote. “As a reading experience, it’s a car crash of a book; you are horrified by what you’re seeing, but you can’t take your eyes off it.”
+
+On Nov. 14, 1965, Hal Moore, at the time a lieutenant colonel and battalion commander, and about 450 troops from his First Battalion were ferried by helicopters to Landing Zone X-Ray, a field near the Drang River in South Vietnam, six miles from the Cambodian border. They stumbled on more than they had bargained for: three North Vietnamese regular army regiments that at times outmanned them 12 to 1.
+
+“By midafternoon in 100-degree heat we were strongly outnumbered, taking heavy casualties in a cliffhanger fight to the finish,” the general wrote in a West Point yearbook.
+Photo
+Mel Gibson, who played General Moore in the movie version of his book “We Were Soldiers Once … and Young,” described him as “like a father to his troops.” Credit Paramount Pictures
+
+Bloody hand-to-hand combat ensued on a battlefield punctuated by termite mounds the size of pickup trucks and bodies strewn amid the elephant grass. Never leaving the combat zone and remaining in the thick of the fight, General Moore delivered on a vow that endeared him to his troops: “I’ll always be the first person on the battlefield, my boots will be the first boots on it, and I’ll be the last person off. I’ll never leave a body.”
+
+Finally, reinforcements and the firepower of helicopter gunships, fighter-bombers and American 105 mm howitzers positioned several miles away turned the tide.
+
+“Unlike Custer,” General Moore said later, referring to Custer’s Last Stand in 1876 at the Little Bighorn, “we had major fire support.”
+
+Kevin Durant famously called his mom "the real MVP" after winning the NBA's most valuable player award in 2014.
+
+Three years and one team later, Wanda Durant still has her son's back.
+
+SEE ALSO: Rage over Kevin Durant's move shows how team owners hoodwink common fans
+
+Back when Durant paid tearful tribute to his mother during his MVP acceptance speech, he was playing for the Oklahoma City Thunder. This summer, he signed with the Golden State Warriors.
+
+Golden State played in Oklahoma City on Saturday night for the first time since that move, and things got heated. The Warriors won easily, 130-114, but there were multiple (albeit minor) on-court confrontations between Durant and his former teammates as the Thunder crowd pelted him with boos and insults all night long.
+
+Many of those insults revolved around a cupcake motif — cupcakes on signs, cupcakes on T-shirts, you get the idea. It was meant to imply that Durant is soft and weak for leaving Oklahoma City to join the already talent-stacked Warriors after eight seasons with the Thunder.
+
+To which Wanda had this reply via Twitter on Monday.
+
+The race to the first fully self-driving car might be raging on at full speed, but one of its main participants, benevolent Bond villain Tesla and SpaceX CEO Elon Musk, is already looking well past the finish line into the autonomous future.
+
+Musk — who was also on hand to announce Tesla's expansion into the United Arab Emirates, the company's first official entrance to the Middle Eastern market — told a panel at the World Government Summit in Dubai Monday that while self-driving car systems are imminent within the next few years, it might take longer for the tech to fully "disrupt" manual driving. When it does, he believes the world economy needs to be prepared to adjust to a society that no longer needs human drivers as part of the workforce. Business Insider first posted the video of Musk's remarks.
+
+SEE ALSO: Elon Musk defends meeting with Trump: 'Does not mean I agree'
+
+"My guess is that in probably 10 years it will be very unusual for cars to be built that are not fully autonomous," he said, before touting the Tesla HW2 hardware package, which could feasibly provide full Level 5 autonomy right now.
+
+What's holding it back is the automaker's Enhanced Autopilot software system, which will be incrementally rolled out this year via over-the-air software updates. The software needs to collect more on-road driving data before it's prepared to be used for true autonomy on a massive scale. The goal is for the system to be prepared for at least one cross-country autonomous ride by the end of this year.
+
+"Getting in a car will be just like getting in an elevator," Musk said. "You just tell it where you want to go and it takes you there with extreme levels of safety, and that will be normal."
+
+Even if the self-driving tech is already close at hand, Musk believes it will still take some time to have paradigm-shifting effects.
+
+"The point at which we see full autonomy appear will not be the point at which there is massive societal upheaval," he said, "because it will take a lot of time to make enough autonomous vehicles to disrupt the economy." He guessed the full disruption won't come for another 20 years or so.
+
+When that disruption comes, though, he's concerned about the potential negative economic impact autonomous cars could have — namely, putting those in industries currently dependent on driving-based jobs out of work. Musk stressed the importance of finding other ways to get displaced drivers working in an autonomous future, because they make up such a large percentage of the global economy.
+
+Throughout the conversation, Musk also hit on some of his other passions and favorite talking points: AI paranoia, cyborgs, super intelligent aliens monitoring Earth as we speak, his secret tunnel and space exploration, repeating his predictions that humans will live on Mars within our lifetimes. After all, he thinks dying on Mars would be a fine way to go out.
+
+
+
+Good morning.
+
+Here’s what you need to know:
+Photo
+Credit Stephen Crowley/The New York Times
+
+• Prime Minister Shinzo Abe returned from his visit with President Trump to a boost in approval ratings — and an internet meme of their uncomfortable handshake.
+
+Prime Minister Justin Trudeau of Canada is visiting Washington to discuss trade and jobs. Up next is Prime Minister Benjamin Netanyahu of Israel, on Wednesday.
+
+The flurry of foreign policy meetings comes amid turmoil within the National Security Council. Its head, Michael T. Flynn, is facing an inquiry over what exactly he told Russia about sanctions before Mr. Trump took office, and the staff is left to try to make policy guided by the president’s morning tweets.
+
+Complicating matters even more, North Korea claims its recent launch shows progress toward long-range nuclear capabilities.
+Continue reading the main story
+
+Advertisement
+Continue reading the main story
+
+Today’s episode of The Daily podcast looks at Stephen Miller, the 31-year-old behind many of Mr. Trump’s most contentious executive orders. Listen here if you’re on a computer, here if you have an iOS device or here for international access on an Android device.
+
+_____
+Photo
+Credit Karam Al-Masri/Agence France-Presse — Getty Images
+
+• More harrowing details about the suffering of civilians in the Syrian city of Aleppo:
+
+Canisters of chlorine gas, a banned weapon, were dumped on residential areas at least eight times late last year in the final weeks of the battle to retake the city from rebels, Human Rights Watch reported.
+
+And a separate analysis drawing on satellite images, security videos and other data indicates that Russia, contrary to its repeated claims, bombed a major hospital in the city multiple times.
+
+
+Credit Fred Dufour/Agence France-Presse — Getty Images
+
+• Dozens of people employed by Xiao Jianhua, the influential Hong Kong billionaire who was whisked to China last month, are being stopped from leaving the mainland — another sign that Beijing is enforcing one of its most far-reaching crackdowns on a private Chinese conglomerate.
+
+China’s state-run media are now suggesting that the investigation into Mr. Xiao’s business empire might have been going on for months before his apparent abduction and rendition to the mainland.
+
+Above, Mr. Xiao’s Tomorrow Group building in Beijing.
+
+_____
+
+Tens of thousands of people in Northern California were ordered to leave their homes amid fears that both the main spillway of America's tallest dam and an emergency backup might fail. By CAMILLA SCHICK on Publish Date February 13, 2017. Photo by Randy Pench/The Sacramento Bee, via Associated Press. Watch in Times Video »
+
+    embed
+
+    ShareTweet
+
+• A California dam’s spillway appears to have stabilized, but evacuation orders remain in place for more than 180,000 people as state authorities try to make emergency repairs before more rains come.
+
+Gov. Jerry Brown warned that the situation at the Oroville Dam, the tallest in the U.S., was “complex and rapidly changing.”
+
+
+A question that frequently comes up in writing and blogging groups I’m part of is: ‘anyone know a good editor?’
+
+This is usually followed by comments of ‘I used this guy once but it was a frustrating process’, or ‘mine was ok, but I’m not sure I’d recommend them.’
+
+I’ve come across so many people who were really disappointed with the editor they hired to help them with their books or blog posts and in almost every case, once I’ve done some digging, I’ve discovered it was because their expectations of their editor were completely unrealistic.
+
+How so?
+
+The most common reason is that many people think the job of an editor is to take their words and re-write them to sound heaps better. That’s not editing, however. That’s ghost writing. Something that usually attracts a far higher price tag than editing (and for good reason. A skilled ghost writer takes your concepts and ideas, turns them into something coherent, ensures the writing sounds like you … and allows you to put your name on it even though you didn’t actually write it).
+
+So, if editing isn’t ghost writing, what is it then?
+
+In the perfect world, editing is four-stage process*. While it may seem that these four stages apply only to the editing of long-form content (like e-books and print books), it does also apply to short-form content like blog posts and articles:
+Stage 1: Developmental editing
+
+When we’re talking books, developmental editing occurs at the very start, preferably before you’ve started putting pen to paper. It’s where the editor considers both your idea and the intended market and determines whether:
+
+    The idea is sound
+    The idea will resonate with the intended market
+
+They will also look at the ‘hook’ of your book – the angle from which you intend to deliver your idea – and help decide whether that’s the best angle, or if there’s another that would work better.
+
+Editors of magazines and online publications also do the above when someone sends them an article or a pitch. They ask themselves ‘is this idea one that will resonate with our readers?’. If it won’t, they’ll either reject the piece or ask you to re-write it from a slightly different angle.
+Stage 2: Structural editing
+
+It doesn’t matter if your writing is amazing, your ideas brilliant and your target market perfectly primed to receive your ideas. If your book or article jumps around all over the place and doesn’t take the reader on a logical journey, it’s going to struggle to resonate and get traction.
+
+When it comes to books, a structural editor will check that the order of chapters, and the sections within chapters make sense when it comes to delivering on the promise you’re making (via your title and sub-title). They ensure the information contained in each chapter is actually relevant to that chapter. They ensure the flow within each section and between each section is smooth and logical. They cut out stuff that doesn’t support the ideas you’re trying to communicate. They’ll also point out where the holes are (i.e. which bits need to be expanded on).
+
+For a blog post or article, structure is just as important as it is for a book. You need to start with a strong hook, (pull the reader in), then deliver the information you’re trying to impart in a logical fashion that flows nicely and delivers a nice payoff for the reader.
+Stage 3: Line editing
+
+Once the structural editor is done and you’ve made the changed they’ve recommended, that’s when it’s time to bring in a line editor (often called a copy editor). These guys literally go through and look at each line.
+
+    A 45-word sentence might be cut into two sentences.
+    Redundant words like ‘that’ will be removed.
+    Unnecessarily long and convoluted sentences will be shortened.
+
+Line editors also check for grammar and consistency of formatting, (bullet points, headings, quotes etc), and ensure what you’ve written is clear as a bell and easy to read.
+Stage 4: Proofreading
+
+The human brain skips quite easily over typos because it tends to see what should be there, not what’s there. Taht’s wyh yuo cna qiute esaily raed tihs setnecne!
+
+That means proof readers are worth their weight in gold. For every one of my books, literally hundreds of people read them prior to publication. And while those people did pick up errors and alert me to them, in every case, when my proof reader did her thing, she picked up heaps more tiny mistakes, errors and inconsistencies.
+
+Shouldn’t the line editor have picked these things up? Not really. The line editor is busy ensuring every single line reads well. They can’t be expected to pick up every proofing error too (although they will pick up most).
+I want my blog posts edited – do I need all of the above?
+
+In short, yes. Which sounds crazy, but the reality is, the editor of any online publication or magazine is doing all of the above as a matter of course every time they assess an article for their site.
+
+In my role as editor of Flying Solo, I work through every piece I accept for publication and ensure:
+
+    The idea is one that is relevant to, and will resonate with, our readers.
+    The article is structurally sound. (The first paragraphs contain a good hook and introduces the premise, the mid-section presents an argument to support that premise, and the conclusion wraps everything up nicely.)
+    The grammar is good, each line is crystal clear and words, lines or paragraphs that aren’t necessary are removed.
+    Formatting is consistent and there are no spelling errors.
+
+What if you’re writing a book?
+
+Then I’d highly recommend at least three, if not four separate people do each stage noted above.
+
+While a good developmental editor is usually also a strong structural editor, the former approaches your book with from a marketing point of view. They will help make your book saleable by figuring out the best angle/premise for your idea to ensure it will resonate deeply with your intended market. The latter is all about setting up the bones of your book to best deliver that idea via strong narrative flow. These are related, but discrete skills.
+
+Line editing is a different skill again. Where development and structural editing take a higher level view of your book, line editing goes deep into the weeds. As someone whose skills lie in the realm of structural editing, I’m well aware of my ability to be a ‘good enough’ line editor, but not a great one.
+
+Finally, as already mentioned, asking someone to both line edit and proofread your book is setting both of you up for failure. Once your line editor has been through your book once, they would need to go through it again to proof read it. And once they’ve been through your book once, they lose the ability to proof read properly because proof reading should be done by a completely fresh pair of eyes.
+If I can’t afford all these people, which should I choose?
+
+I do understand that if we’re talking about a book, getting it edited by four different people is costly. So, if funds are limited, where should you spend them?
+
+Line editing would be first. It doesn’t matter how good an editor you are of your own work, a good line editor will make everything so much clearer and make you sound so much better. They will also pick up most proofing errors.
+
+There is nothing easy about being an entrepreneur. When you own a business, all of the weight is on your shoulders. You are responsible for making it happen, not only for your own livelihood, but also for the people working for you.
+
+Many entrepreneurs credit coaches and mentors with helping them stay sharp and get through difficult times. Over the past few months, I have been exploring the possibilities of working with a coach, and after some inner-circle networking, I connected with Chris Majer, founder and CEO of the Human Potential Project and The Drivers Seat.
+
+Majer’s professional career evolved out of his early days as a competitive rugby player. In 1981, he began working exclusively with athletes to isolate and reproduce the elements of consistent winning performance, which caught the attention of the military. Majer and his firm then spent nearly three years working with the army to design new ways of training soldiers. In the following years, Majer began working with corporate clients, growing into a skilled team of professionals working globally. At his peak, Majer was the principal architect of transformational projects for corporate clients such as AT&T, Cargill, Microsoft, Intel, EDS, Capital One, Amgen and Allianz Life of North America.
+
+Related: Why Would a Successful Entrepreneur Hire a Coach?
+
+I firmly believe that everyone is always seeking a mental edge, from entrepreneurs to athletes. Everyone wants to improve his or her performance and get ahead. That’s exactly what led to me connecting with Majer -- I wanted an edge.
+
+In talking with Majer, he explained that it takes time and commitment to develop a robust set of mental fitness practices. I asked him to give me some simple ways to sharpen mental focus, and he gave me the three following tips.
+1. Breathe properly.
+
+When you find yourself in a stressful situation and need to calm down, breathing is the easiest and fastest way to do it. Stress causes your body to tighten and your breathing to get shallower.
+
+“To reverse this," explains Majer, "take three deep breaths. Breathe in through your nose and out through your mouth. Let each breath be a deeper and slower than the previous. As you do this, relax your forehead, your jaw and your tongue. Most people have their tongue stuck to the roof of their mouth all day -- let it relax with the rest of you. As you exhale, soften your chest muscles, bend your knees a bit and wiggle your toes. This is a quick, simple and effective way to calm yourself in any situation."
+2. Discipline your mind to focus on one thing at a time.
+
+The human mind doesn’t like discipline. That’s why it’s important to develop the capacity to focus -- to put singular attention on one conversation or activity at a time. We like to delude ourselves with the notion of multi-tasking, but the mind can only do one thing at a time.
+
+Related: 18 Unusual Habits That Boost Your Energy More Than Coffee
+
+I’m a huge multitasker, and it’s a very common weakness, according to Majer. He believes you should constantly tell yourself to focus, explaining, “Start with the breathing exercise mentioned first, and then put all of your energy into whatever it is that you need to focus on -- the person sitting across from you, the spread sheet on your computer, the email to complete, etc.  Now, stay engaged and alert, and if or when you find yourself wandering off, bring yourself back to the moment with the simple, one-word trigger -- focus.”
+3. Control your inner critic.
+
+Everyone has a little voice in our heads. Whether you listen to that voice is entirely up to you, though. There are always going to be situations where you'll second-guess your ability.
+
+You have to have complete confidence. The moment self-doubt enters your mind, the odds of failing greatly increases. You have to control and silence your inner critic.
+
+Related: Leadership Playbook: 3 Ways to Coach, Not Criticize, Employees
+
+“Go into every situation thinking only of the best possible outcome," Majer says, "staying completely focused on that specific outcome. This trains your mind to push out all negative thoughts that your inner critic would typically place in your head."
+
+Breathe, focus and control your inner critic. These three techniques sound simple, but try them in practice and watch how they can help your daily productivity.
+
+Small business has been a big focus for President Trump and his administration. Recently, he met with Alibaba Group CEO Jack Ma, where they declared their joint intention to help create a million new U.S. jobs by helping U.S. small businesses sell in China via Alibaba Group’s various platforms.
+
+However, what escaped many of those stories is the fact that Alibaba Group is already enabling U.S. entrepreneurs like Stadium Goods, a retailer and reseller of a wide variety of cool sneakers, to sell in China via its business-to-consumer platform, the TMall marketplace.
+
+Related: How Alibaba's Jack Ma Became the Richest Man in China
+ADVERTISING
+inRead invented by Teads
+What’s the opportunity for U.S. small business in China?
+
+There's no doubt that, with a population more than three times that of the United States, China presents a tremendous opportunity for small business. Alibaba Group said that today it had approximately 493 million unique active users -- not registered users -- on Taobao and TMall.
+
+Moreover, as the market there is just developing, Chinese consumers are open to creating new relationships with worldwide brands. It’s a tremendous opportunity for a small business to get in early on the Chinese consumer’s brand affinity cycle and create strong relationships.
+What kind of small business is well-suited for China?
+
+This is the most important point to consider if you are a small business. To have success like Stadium Goods, you have to be willing to make an investment. While you need a business registration and partner in China for the TMall platform, TMall Global allows you to open a storefront without having to have that partner, removing a big barrier for small businesses to be able to sell in China.
+
+The basic business of TMall Global is having you as a seller open your own fully controlled storefront from which you sell directly to the consumer. While it may sound similar to other platforms and business marketplaces, there are a number of differences.
+
+Related: Apple Becomes China's Third Highest Smartphone Distributor
+
+One difference is that you will likely need to make at least a five-figure commitment to be successful. As opposed to other platforms that US businesses may be familiar with in the U.S., like Amazon, eBay and Etsy, TMall’s cross-border channel Tmall Global operates through bonded warehouses located within China’s free-trade zones, which eliminate import taxes. You send your inventory and store it there ahead of time, and products reach Chinese consumers more efficiently and economically. While that makes it more of an even playing field, price-wise, it does mean that you, as a small business owner, must be thoughtful about what you're marketing, because you aren’t just mailing off packages one-by-one.
+
+So, in a nut shell, as of today, more established small businesses with sales and investment capabilities are going to be a better fit than start-ups or cash-strapped businesses.
+What industries and products are hot with the Chinese consumer?
+
+Per the Alibaba Group team that reviews the company's substantial customer data on an ongoing basis, there are a few in-demand industries overseas. Agricultural products, food and beverage, baby and maternity goods and health and wellness products. Basically, the types of products you put into and on your body -- industries where Chinese goods have come under fire in the past for the quality of ingredients and materials used.
+
+Also, there’s an increasing focus on sports, athleisure and lifestyle goods. These areas aren’t as developed from a brand standpoint in China as they are here in the U.S. and elsewhere throughout the world, so there’s a great opportunity for other brands and resellers to take the lead of Stadium Goods in tapping the market in China.
+How do you facilitate marketing?
+
+Obviously, when you don’t speak the language of the Chinese consumer, let alone understand their customs and buying habits, marketing to them seems incredibly daunting. This is the arena where Alibaba Group differentiates itself. Their business model is built around marketing facilitation, and they have tremendous amounts of data on their customers to help a small business decide which products to sell, how to segment to demographics and ultimately, how to best target consumers on their platform.
+
+Related: Multinationals Turn to Entrepreneurs for a Foothold in Emerging Markets
+
+They also heavily use influencers, including YouTube and other internet celebrities that do livestreaming for brands in China. Think of it as a digital version of home shopping programs that can help introduce brands and their products to the Chinese consumer while giving those products a stamp of credibility and approval.
+What about payment and logistic?
+
+There are other hurdles for a small business selling in China beyond its e-commerce marketplaces, but Alibaba Group provides the infrastructure necessary to facilitate doing business. Alipay, owned by Alibaba’s sister company Ant Financial, allows you as a small business owner to easily transact business and get payment from consumers. They also have an affiliated logistics company, Cainiao, that oversees a partner network of distribution companies that facilitates both domestic and cross border movement of goods, to make getting your product to the Chinese consumer something that you won’t have to worry about.
+While the international trade landscape is likely to continue to change over the next several years, this is a good starting point for assessing whether selling in China is a good fit for your business now. If you want to learn more about how your small business can leverage a platform like TMall and market your products in China, visit the website here.
+
+If you’re a hobbyist photographer, it’s hard to carry your camera around with you everywhere you go. Lifehacker reader Jordon Cooper’s New Year’s Resolution was just that, so he set up his camera bag so he could have it with him all the time.
+
+The bag is the Lowepro Urban Reporter 250. Here’s what’s inside, but head over to Flickr for more details about each item:
+
+    Olympus OM-D E-M5 II​ with the Olympus HLD-8G grip
+    Sigma 19mm f/2.8 DN Art​
+    Sigma 60mm f/2.8 DN Art
+    Olympus M.Zuiko Digital ED 40-150mm f/4.0-5.6 R
+    Two​ ​Sandisk 32gb Ultra SD cards
+    Rode VideoMic Micro
+    Acer Netbook
+    Moleskine Notebook
+    Moleskine Daytimer
+    uniVision Pen
+    Panasonic ErgoFit In-Ear Earbuds Headphones
+    Zoom H1 Recorder​
+
+If you have a great go bag with a useful organization scheme and great features, let us know! You can share your bag by posting it to your personal Kinja blog using the tag featured bag or adding it to our Lifehacker Go Bag Show and Tell Flickr pool. Photos must be at least at least 800x450. Please include information about your bag, what you put in it, and any relevant details about how you made it awesome. If yours catches our eye, we might just feature it!
+
+The water from a can of chickpeas makes a great egg substitute for baked goods and pancakes, but you can also use it in other tasty items like cocktails. Here’s how.
+Use Chickpea Liquid as an Awesome Replacement for Eggs
+
+Attention vegans and people with egg allergies: It’s time to stock up on some cans of chickpeas.…
+Read more
+
+If you don’t eat eggs, or the idea of adding a raw egg to a drink makes you gag, swap in chickpea water (also known as aquafaba) for an egg-less option without losing the frothy texture. Substitute ¾ oz of chickpea water for a medium egg white in your cocktail recipe, then mix the drink as normal. This switch works best for drinks that are less delicate in flavor, like those with stronger tasting booze or other ingredients like simple syrup or citrus, since the chickpea flavor can come through a bit otherwise.
+
+How to Make Frothy Cocktails Without the Egg | Washington Post
+
+If you need to gut your fresh catch of the day, all you need is a pair of chopsticks. Warning: you will literally see a fish’s guts get yanked out of its mouth.
+
+This gutting method, demonstrated in the video above from the Morigami YouTube channel, removes fish innards and gills without forcing you to cut it open or remove the head. Take a pair of throw-away chopsticks and insert them into the fish’s mouth past the gills, give the chopsticks a few hard twists, then slowly pull out the innards through the mouth. Rinse the inside of the fish with water and it’s ready to be cooked or frozen for later use.
+
+This fish cleaning method is known as the “tsubo-nuki” technique in Japan, and is popular throughout many parts of Eastern Asia. It’s ideal when you’re serving fish whole or just tossing them on the grill because the body stays intact and keeps its shape nicely while cooking. You also avoid accidentally cutting into the fish’s digestive tract or other organs that may require additional cleaning of the fish.
+There’s nothing more romantic than wine and chocolate—as long as the pairing is right. Here are some useful suggestions from an expert in the field.
+
+In this video, Madeline Puckette, sommelier and founder of Wine Folly, shares her picks for great chocolate and wine pairings. For basic chocolates, especially the dark stuff, Puckette suggests a nice, sweet port. For chocolate cakes, cupcakes, and the like, reach for a bottle of shiraz. And if you’re more of a white chocolate fan—which isn’t really chocolate, but still—a dry sauvignon blanc will elevate the vanilla flavoring of the white chocolate to an irresistible fruitiness. Of course, if you’re reaching for the basic stuff in the candy aisle, there are plenty of other pairing suggestions out there.
+
+Recording quality audio all comes down to preventing major problems from the start. This guide, from NPR’s Rob Byers and NPR audio engineers, will help you avoid recording problems, as well as fix editing and mixing problems.
+
+The reference guide from Byers, NPR’s production specialist, covers distortion, clipping, plosives, hisses, hums, interference, dealing with background noise, and more. You’ll also learn how to adjust abrupt tone of voice or cadence changes in editing, fix inconsistent audio levels, deal with stereo balance issues, etc. Using recorded examples of each issue, the guide will get your ears trained to hear and prevent problems in no time. If you’re looking for a comprehensive guide written by a pro, definitely check out the resource below.
+
+When you make your own game in life and business, there’s a tight pairing between an opportunity and a problem and it has one word: freedom. When you can do anything, sometimes you lock up and do nothing. Or nothing useful. What should you do when you feel stuck?
+That Stuck Feeling
+
+When faced with freedom, we tend to get into a mental traffic jam. “What should I do?” “There’s so much.” “I’ve got no time.” “I’ve got too much time.” “I don’t have enough customers.” “I have too many customers.”
+
+We get all kinds of negative thoughts flooding in, too. “I’m not good enough.” “They haven’t responded. They must hate me.”
+
+Get Unstuck
+
+My method for getting unstuck is simple. It’s a recipe. I’ll give it to you now, but you’ll have to adjust it for your particulars. Deal? This example will be primarily for business but a lot of these ideas would help you make your own game in life, too.
+
+    Build a “Start Here” list for yourself and refer to it every time you’re stuck. – You know what should be on it. It’s those actions that get you the most value for whatever you’re trying to do. Put on the list a mix of EASY and CHALLENGE tasks. Examples: Easy – invoice. Challenge – Cold call or email. Have 3 or so each.
+
+    Reach out to 3-5 existing customers and just check in. – Ask them what’s going on in life. Ask them how they’re doing. NOT about the product or service you offer. About them.
+
+    Write a blog post or newsletter article about a problem your buyer might have. – Even if you never publish it. The goal is to think about your buyer and think about ways to serve them. Writing gets your mind going. Suck at writing? Doodle. I mean it.
+
+    Read a chapter of a book NOT about your industry. – Or watch a TED talk about something not in your industry. Or call someone smart. Get out of your industry and learn. This helps a lot. It’s where I spend a lot of my non-client time.
+
+    Drop everything and start. – Sometimes, you’re stuck because you’re too into everything. You’re stuck. You’re busy, even. Stop. Drop it all. Shake your head kind of heard. And start. Start as if you weren’t in the middle of it all. Start like the old you got fired and there’s a new you. This one’s key.
+
+Move. Movement is Key
+
+The last piece of advice I have is this: move. Take SOME action.
+
+A long while back, I ran a trail marathon. This was insane. I’d never run before.
+
+So when I started, I ran the distance of one phone pole. Then, I walked two poles to catch my breath. I got a little better. I stopped less often. I did this over months. I ran a 5 K. Then 5 more. Then a 10K. Then 10 miles. Then the whole 26.2.
+
+Along the way, I learned this: if you’re running a decent amount of pain-inducing miles, and you stop for a break, you’re finished. Through. Dead in the water. You MUST keep moving.
+
+The same is true for business and life. If you’re stuck, you’ve stopped. So move. Mess up. Who cares? Just MOVE. Because NOT moving is going to hurt more. I promise.
+
+I’ve got a webinar coming up that will go deep on all this. Grab my newsletter to make sure you get an invite to it. I think you’ll find it very helpful.
+
+We all want a positive response to the content we work so hard to create. Not all positive responses, however, are created equal.
+
+I’m reminded of this David Ogilvy quote from Ogilvy on Advertising:
+
+    “When I write an advertisement, I don’t want you to tell me that you find it ‘creative.’ I want you to find it so interesting that you buy the product. When Aeschines spoke, they said, ‘How well he speaks.’ But when Demosthenes spoke, they said, ‘Let us march against Philip.'”
+
+In other words, if you’re looking for something more than “Great post!” comments, then you’ve got to prompt action. And that means you’ve got to stir something in the audience before they’ll do something.
+
+Now, before we get to that, one easy way to get someone to do something is to simply ask. I’m assuming you’re already using calls to action, but if not, click that last link to read about those first.
+
+Otherwise, let’s focus on what must happen before the ask. What we’re trying to stir is an emotional response.
+
+It’s emotion that moves us to act. In fact, the Latin root for the word emotion means “to move,” because emotions motivate what we do. We don’t necessarily want to make them seethe with anger or burst into tears, though.
+
+The goal is not necessarily to get someone to feel, but rather to want — and to act on that want. Here are several ways to accomplish that.
+1. Vivid storytelling
+
+Emotional responses come when we experience a message that corresponds with our existing beliefs. Appealing to the core values of your audience, how they view the world, and their expectations for the future is incredibly powerful — if you truly create an experience.
+
+Dating back to the time of Aristotle, skilled persuaders understood the power of a detailed narrative. The key is that the story must be so vivid that it prompts a vicarious experience in which they can see the outcome of the story happening to them.
+
+Here’s the beginning of a story that fueled a $2 billion(!) subscription promotion for The Wall Street Journal:
+
+    “On a beautiful late spring afternoon, twenty-five years ago, two young men graduated from the same college. They were very much alike, these two young men. Both had been better than average students, both were personable and both — as young college graduates are — were filled with ambitious dreams for the future.
+
+    Recently, these two men returned to college for their 25th reunion.”
+
+Do you see the setting in your mind’s eye? Click here to read how the story progresses and see why it succeeded so wildly.
+2. Ramp it up
+
+Sometimes when we’re eager to prompt action, we’re tempted to come out of the gate swinging. High energy, high emotion — that’s what will cause the audience to latch on to our contagious enthusiasm and take action, right?
+
+Not necessarily.
+
+    Skilled presenters, ranging from politicians to stand-up comics, know that it’s better to start low-key and build momentum as you go.
+
+Persuasive content and copy are often referred to as a slippery slide. The goal of each and every sentence of your message is to keep people engaged the whole way down, gaining momentum along the way to the call to action.
+
+And although the context is different, there might be no better example than Martin Luther King, Jr.’s “I Have a Dream” speech from 1963:
+
+The speech was ranked the top American speech of the 20th century in a 1999 poll of oration scholars. More importantly, it inspired the huge crowd at The March on Washington to the point that the Kennedy administration felt compelled to advance its civil rights legislation in Congress.
+3. Hold a unity rally
+
+We all belong to various groups, ranging from nationality, to college alma mater, to favorite NBA team. Appealing to the tribal nature of an audience that’s part of your group naturally invokes emotion, while you also benefit from the powerful influence principle of unity.
+
+Unity goes beyond simple similarities and liking, and instead reaches the point of shared identities. It’s inherently an “us against them” scenario, and if you want to mobilize the choir instead of just preach to it, you’ve got to communicate how “the others” present a problem.
+
+    It could be about how a competitor has chosen not to serve the needs of your group. Or how outsiders are belittling your tribe in a way that inspires action. It doesn’t have to be ugly, but it does have to motivate the group to stand together and move.
+
+Sometimes, you can even use unity to inspire others to join the group. This happens because of another powerful, fundamental influence: social proof.
+
+For example, one of our core values is that we believe that building your business or content marketing engine on someone else’s virtual property is unacceptably risky. When we rail against digital sharecropping, website owners flock to the comments to agree — providing powerful social proof for others to get on board with owning their own platform.
+4. Be like Mike
+
+Group identity is powerful thanks to our strong need to belong. Emulation works on the same emotional level when you position yourself as a role model to your audience.
+
+Now, that might sound a bit arrogant, and it certainly can be. But if you’ve done the hard work of becoming a likable expert, your audience will naturally choose to emulate you in certain ways, or even desire to be like you.
+
+Think of the whole “personal branding” movement. Everywhere you look, people are becoming micro-celebrities hoping to charge you money so you can be like them — and in many cases, it works.
+
+That’s a little bit too on the nose for me. A smarter approach is to inspire your audience to do something with you, such as join a cause, contribute to a charity, or act in some other way that deepens the broader influence factors of unity, authority, liking, commitment and consistency, and social proof.
+5. Show, don’t tell
+
+This last technique is more of a “what not to do” tip that relates to the other four. It comes down to one of the oldest bits of writing advice around, which is to refrain from “telling” them why they should do what you want them to do while making your case, and instead letting the audience experience the realization themselves.
+
+    The story should be so vivid that they see themselves achieving the outcome.
+    The “ramp up” should spark the emotional response without explicit direction.
+    The realization that “they’re wrong, we’re right” should come from the group.
+    The audience should decide that they’ll emulate you before you ask.
+
+On a related note, never telegraph the emotional response you’re seeking up front, or a natural psychological defense mechanism may arise.
+
+    Emotions are best triggered without revealing an upfront expectation.
+
+It’s dangerous to proclaim a joke as hilarious before telling it, and it’s likewise bad form to lead with “Boy, is this going to tick you off.” In other words, don’t tell people you’re going to go on a rant, just begin and build to the rant.
+Stir the win-win
+
+None of these techniques are going to make anyone do something they don’t want to do. In fact, more often than not the desired action has to be in their best interest first and foremost, and yours secondarily.
+
+In other cases, you may get some action thanks to the previously unmentioned principle of influence — reciprocity. If you selflessly and unconditionally give away something useful, perhaps they’ll do a favor for you in return.
+
+All writing is persuasion in one form or another.
+
+This is more obvious in some types of writing than others, but it is nonetheless true for all.
+
+When it comes to copywriting, it is clearly true. Every piece of copy we write should drive a reader toward a specific action.
+
+    “Writing gives you the illusion of control, and then you realize it’s just an illusion, that people are going to bring their own stuff into it.”
+    – David Sedaris
+
+But even the best piece of copy in the world doesn’t actually control a reader’s actions. Well-written copy only provides the “illusion of control.” What a reader does after reading is dependent on the “stuff” they brought into it.
+
+That “stuff” includes past experiences, preconceived notions, and, above all else, cognitive biases.
+
+Let’s discuss a helpful handful of these cognitive biases — some you’ll know well, some you may not — and how understanding them and structuring your content in a way that acknowledges and appreciates them will help you connect, compel, and serve better.
+What are cognitive biases?
+
+    “A cognitive bias refers to the systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion.”
+    – Wikipedia
+
+In other words, cognitive biases are mental shortcuts we all make, all the time, without consciously realizing it, that can lead to irrational thoughts and actions.
+
+An example:
+
+    We tend to search for and interpret information in a way that confirms our preconceptions.
+
+I sat down to write this article believing that understanding cognitive biases would be useful for content marketers. So, I researched articles that discussed how marketers use cognitive biases to influence decision-making. Naturally, I found many, which confirmed by preconception.
+
+This is called confirmation bias.
+
+In this case, my clear confirmation bias did not lead to a poor or irrational decision. The scientific evidence is quite clear, and ever-expanding, that cognitive biases are indeed constantly affecting people’s decisions and behavior. So, the premise of this article is built on a solid foundation of unbiased evidence.
+
+But what if my goal had been to poke holes in the idea of cognitive biases existing and affecting behavior?
+
+I would have had a hard time finding any credible evidence to support my hypothesis — and, if I did, I would have been much more likely to place undue weight on its validity due to my preconception.
+
+We’ll never eliminate cognitive biases, in ourselves or others. There’s no use trying. All we can do is understand them, embrace them, and endeavor to use them ethically and morally*.
+
+*This is important: There can be a fine line between understanding cognitive biases and then using them for good or exploiting them for evil. If you’re not committed to staying on the ethical and moral side of that line, please stop reading this article now and consider not coming back to this site. You’re definitely not for us, and we’re probably not for you.
+4 more cognitive biases you need to know to better serve your readers
+
+Hopefully it’s clear why acknowledging your own natural proclivity for confirmation bias is important. You and your audience will be well-served by your commitment to combating it.
+
+Now let’s run through several additional cognitive biases that your readers bring with them to your content and how those might help both you and your readers make better decisions. (This is a carefully curated list, but I recommend this blog post at Neuromarketing for a deeper dive into 60+ cognitive biases that are useful to know.)
+1. Attentional bias
+
+We have a tendency to be affected by our recurring thoughts. Brand advertising is built on that premise.
+
+    The more people see an image or a message, the more likely they are to remember the brand, trust the company, and then do business with it down the line.
+
+So if you want to influence your audience with a call to action — for example, trying out our new StudioPress Sites product — then you’re much better off repeating it often, and in several different places.
+
+Consider how often we have subtly and not-so-subtly exposed people to StudioPress Sites as they’ve navigated through the Rainmaker Digital universe over the last few weeks:
+
+    StudioPress.com has been revamped to display Sites as a major component
+    Brian Clark dropped hints, then followed with explicit mentions on his podcast Unemployable
+    We reached out to StudioPress affiliates prior to the launch to prepare them, and many have published posts alerting their audiences to Sites’s arrival
+    We published an announcement here on the Copyblogger blog
+    We’re running paid ads announcing Sites
+
+You get the picture.
+
+Don’t say it once — say it often, and in many different places.
+2. Framing effect
+
+There is the offer. And then there is how you frame the offer.
+
+For example, we recently had a fundraising drive for The Assembly Call — a live postgame show and podcast about Indiana basketball that I co-host. We have sponsors for the show, but we are also listener supported.
+
+Our goal was to generate $2,613 (more on the odd specificity of this number in a minute) during an eight-day window. We promoted the fundraising drive to our email list of about 3,300 people.
+
+The offer — in this case, more of a request — began with:
+
+    “All we’re asking is for you to contribute what you believe our content is worth. If you do find value in what we do, any donation helps.”
+
+Okay. Fine.
+
+Now here is how we framed the donation request:
+
+    “The average donation has been $52 and the most common donation denomination has been $50. But we’ve had donations as small as $4 and as large as $300.
+
+    In fact, this email will go out to roughly 3,300 people … so if every person just donates a dollar, roughly the cost of a gas station coffee, we’ll fly past our goal.”
+
+The initial request left so much open to interpretation: How much should I donate? What’s reasonable? What have other people donated? Will my donation actually make a difference?
+
+Questions like these, left unanswered, can lead to friction that prohibits action.
+
+    But framing the requested action based on what’s common and what the range has been — and then explaining how a comparatively small contribution could still make a difference — helped to reduce this friction and induce action.
+
+(In addition, you can see the bandwagon effect at work here: the part that explains what other people have already done.)
+
+We reached our goal in less than 24 hours. I have no doubt this framing had a huge impact.
+
+So, did we play a psychological trick on our audience?
+
+No.
+
+We had many donors who actually thanked us for giving them the opportunity to contribute to the cause. They wanted to support us. We have a good product, a good relationship with our audience, and this was a fair request that we’d earned the right to make.
+
+This is the difference between ethical and moral use of cognitive biases in marketing and using knowledge of cognitive biases to take advantage of an unsuspecting target.
+3. Bizarreness effect
+
+So, why the oddly specific number $2,613? Why not $2,500 or $3,000?
+
+Because people are more likely to take notice of — and remember — something that stands out rather than blends in. This is also referred to as the Von Restorff effect.
+
+I’ve found it to be especially true when it comes to headlines and email subject lines, and I knew that the amount of donations we’d receive would be in part dependent upon the open rate of the email blast.
+
+The subject line we used was: “Will you help us reach our goal of $2,613?” I also had the email come from “Jerod Morris” as opposed to “The Assembly Call.”
+
+    The number shouts from the inbox, inducing curiosity and demanding a click. As does the request of “help,” especially from a person’s name rather than a brand name; it’s compelling.
+
+We never ask our audience for “help” and they rarely get an email from my name. Bizarre. We figured they’d want to know why.
+
+An open rate of 70 percent suggests they did.
+
+Screen Shot 2017-02-02 at 11.28.43 AM
+
+And the donations that were coming in as late as a week after sending that email (without another email blast to remind them) suggest that the offer was indeed memorable.
+4. Risk compensation
+
+Some of these cognitive biases just make simple sense. Like risk compensation, which suggests that people adjust their behavior in relation to perceived risk — we’re more likely to take a bigger risk when perceived safety increases, and vice versa.
+
+This is precisely why every single product we sell at Rainmaker Digital comes with a 30-day money-back guarantee.
+
+And why we focus on the guarantee toward the ends of promotions.
+
+For example, we recently announced that the price of the Rainmaker Platform was going up. (Spoiler alert: the promo is over; the price has already gone up.)
+
+Here’s what the final email, sent two hours prior to the price raise, looked like:
+
+    “Subject: [2 Hours Left] The Price of Rainmaker Goes Up Soon
+
+    One last reminder …
+
+    Start your free, 14-day trial of the Rainmaker Platform in the next two hours so that you lock in the current price (before it goes up).
+
+    Of note:
+
+        If you cancel prior to your 14-day trial ending, you won’t be charged at all.
+        If you decide to cancel within 30 days of your first payment, you’ll get a refund with no questions asked.
+        In either situation, you can export whatever progress you’ve made with your site and take it with you elsewhere.
+
+    So there’s no risk, just a massive annual savings you can lock in.
+
+    Click here to start your no-risk free trial of the Rainmaker Platform today.”
+
+We’d proudly suggest the Rainmaker Platform to any of our audience members who have a desire to build and sell digital products. Still, that doesn’t mean starting a trial is without risk, or perceived risk.
+
+A few risks people might identify — rationally or irrationally — before signing up:
+
+    I have to enter a credit card, so am I going to get charged right away? (Nope, you aren’t charged until the trial ends.)
+    If I make a payment, but then realize Rainmaker won’t work for me, am I out the money? (Nope, you get a refund within the first 30 days of payment.)
+    But what if there is nothing wrong with the Platform and I just decide I don’t want it? (Not a problem! We don’t ask any questions.)
+    I just don’t want to be hassled if I want to cancel and get my money back. (Again, no problemo. The money-back guarantee is no questions asked.)
+    Okay, but what if I did a bunch of work to set stuff up. I don’t want to lose that if I cancel. (No worries. You can export any work you do and take it elsewhere.)
+
+See how that works?
+
+    The copy answers the kinds of questions that will naturally come up before action and can even preempt the fears that cause the questions in the first place.
+
+By dissolving the fears that risks induce, we offer people a more comfortable journey down a path they are already interested in walking (and that we know, long-term, could be a path they’ll be thankful we presented to them).
+
+And this is a big reason why (along with the cognitive bias that induces FOMO, of course) the last day of the promo was by far the most successful one. Thirty-eight percent of new trials during the promo period started on the final day, many after this final risk-compensating reminder email was sent out.
+So, is the “illusion of control” really such an illusion after all?
+
+It’s interesting to note that illusion of control is also a cognitive bias, suggesting “the tendency for human beings to believe they can control or at least influence outcomes that they clearly cannot.” (Via RationalWiki.org)
+
+You’re not there with your reader as she consumes your words. You’re not inside her brain, finding out exactly how she’s interpreting what you’ve written. You’re not present to offer any additional arguments about why she should take the action you’d like her to take.
+
+So any control you feel you have as a copywriter does, indeed, seem like an illusion.
+
+And yet …
+
+We know that well-written copy is more likely to influence desired outcomes than poorly written copy.
+
+We know that well-written copy contains words that make sound logical arguments, that empathize, and that possess the ability to compel useful emotional reactions in a reader.
+
+    Your ability to understand and acknowledge cognitive biases with your copy allows you to empathize with your reader, and that is what opens the door to compelling a useful emotional reaction.
+
+And we know that emotion drives action more than logic — the latter of which serves more to justify than compel.
+
+Look, who am I to defy the words of a writer like David Sedaris? And to deny a known cognitive bias? Writing probably does give you only the illusion of control.
+
+But maybe, just maybe …
+
+    By committing to a better understanding of the “stuff” our readers bring to our words, we increase our ability to turn an illusion of control into … let’s call it … an opportunity to connect.
+
+And when we connect, we have a chance to compel — a privilege and responsibility that truly unlocks the next level of service to our audiences.
+
+You may be hugged up and cozy on the couch with your boyfriend, wife or significant other, but many Americans haven't found their Mr. or Ms. Right.
+There are more unmarried people now than ever before in the United States. True, some people are committed and just not tying the knot, but many just haven't found their special someone. That's despite the growing number of dating apps like Hinge, Match, Tinder, Bumble and OK Cupid.
+So how can you increase your chances of finding a mate? Two dating coaches -- one in Atlanta, the other near San Diego -- spoke about their approach to finding love for their clients.
+
+Check your inner dialogue
+These dating coaches say the biggest obstacle is their clients' own attitudes.
+"It's the story they tell themselves: 'There are no good people out there. I'm too picky. Nobody's really looking for a relationship,' " said Traci Porterfield, founder of Love By Design in La Costa, California.
+"You attract what you are. They bring that low energy, low vibration to that date because they are expecting it to be awful."
+Dating coach Karla Moore if NineGPS in Atlanta agrees.
+"Without a doubt, it is the client that is really, really stuck in a negative thought pattern. Learning how to pivot from that mentality is really a tall order for some singles, especially if you have a track record of disappointment," Moore said.
+"Make it a habit to constantly notice what you're thinking, because a lot of people think, 'I'm too fat. I'm a bad dater.' Those are the kinds of things, whether you're aware of it or not, that you're putting out to the other person. That is what the message is. The first step is being aware of it and switching that."
+Porterfield recommends replacing that inner dialogue with positive self talk.
+"I have people find phrases, whether it's creating a mantra or a song that makes you feel great. If you tell yourself 'dating is fun. I can make a new friend,' that's a whole lot different than 'there's nobody out there. All the good people are taken.' "
+3 tips for successful dating from love coach
+
+3 tips for successful dating from love coach 01:08
+Get strategic
+Porterfield has her clients write a list of what they want in a mate. In many cases, her clients have several pages of traits, from physical to spiritual to what type of job they have. She has them narrow that list down to their top five characteristics and ultimately to their top three.
+She says it's easier to keep those things top of mind when the list is whittled down.
+"Those are things that you think of every day," Porterfield said.
+"These are the nonnegotiables -- and I don't mean physical traits. What kind of person do you want? What's important to you? We talk about core values."
+Porterfield cautions that some clients use their lists to build up walls and prevent intimacy. She says that's often due to fear from failed relationships and heartbreak. So, she says, clients need to really strip away the layers.
+"Ask yourself, is that (trait) really important to you? 'Is that fear talking to me, or is that truly a dealbreaker?' "
+Moore says she still sees women who think finding a mate isn't romantic unless it's spontaneous.
+"We have been programmed by Disney, especially women, to feel like Prince Charming is just going to pop out of the sky. This is not rational. We handle our our education, our aspirations in other areas very methodically, thoughtfully and strategically. It's really about giving yourself permission to say, 'you know, I do want to be married. I do want to have a family.' "
+Be open
+We all know women who reject short guys and men who refuse to date women who are over 40 or are fuller-figured. Porterfield says people who want to find a successful relationship need to be more open about who might be a good match -- especially when it comes to surface stuff.
+"People tell me all the time they have to be this tall or this color hair. Those kinds of things just put limitations on you. You can have a preference, but if you're open to how that person shows up, you're going to see who they are as a person," Porterfield said.
+Being open also means not immediately judging the person you're on a date with.
+"It's not a job interview. A lot of people go in with a mindset of, 'do they meet all the things on my checklist?' You should actually be listening more than you're speaking," Porterfield. said
+Do something different
+"Go to a different coffee shop in the morning. Go grocery shopping at a different store than you normally go to. Wear a different color," Porterfield said. "It doesn't have to be something huge. I tell people just to get yourself in a different mindset."
+Moore agrees.
+"It really is about us as singles to force ourselves to do something different. We have to take small steps. If that means you force yourself to a strategic event once every two weeks with other people who also may have anxiety about being out with strangers, that will let them see, 'yeah. i can do this,' " Moore said.
+"It could be anything: a mixer, a networking event, it could be going out with friends after work to get drinks. There are opportunities for all of us to be out in the world."
+
+hotographers can capture some amazing landscapes and moments with some of nature’s wildlife as their guides. As one of the more challenging forms of photography, you never know what you might encounter. This certainly was the case when photographer Graham Dhyer captured what would turn out to be a rare, and unheard of moment in the Animal Kingdom.
+
+ss
+
+While touring the Central Kalahari Game Reserve, a group of individuals stumbled upon a pride of lions. Among the pride was a lion, a lioness, and three lion cubs, but one thing among the pride was out of place. Luckily, Dyer was in the crowd to capture this amazing moment and a testament to the heart of a mother lion.
+
+All you have to do is watch nearly any depiction of female orgasm on screen to get an idea of how a woman is "supposed" to react during sex.
+From "When Harry Met Sally" to "Sex and the City" to your basic porn film, women in the throes of passion aren't just shouting their ecstasy from the rooftops, they're moaning with pleasure. Loudly.
+But is this just cinematic license, or is there really something to noisy sex?
+
+The ancient evolutionary origin of the elusive female orgasm
+The ancient origin of the elusive female orgasm
+Experts wondered the same thing. In 2011, Gayle Brewer of the University of Central Lancashire and Colin Hendrie of the University of Leeds published their research on the topic -- technically known as "copulatory vocalization" -- in the Archives of Sexual Behavior. In the study, they asked 71 sexually active heterosexual women between ages 18 and 48 for more details about vocalization during sex.
+The researchers found that many of the women did make noise but not necessarily while they were having an orgasm. Instead, 66% said that they moaned to speed up their partner's climax, and 87% stated that they vocalized during sex to boost his self-esteem.
+Is there such a thing as &#39;good porn&#39;?
+Is there such a thing as 'good porn'?
+"While female orgasms were most commonly experienced during foreplay, copulatory vocalizations were reported to be made most often before and simultaneously with male ejaculation," the researchers wrote. Women also reported making noise to relieve boredom, fatigue and pain/discomfort during sex.
+So is female vocalization during sex just a performance for a guy's benefit? (After all, Meg Ryan's over-the-top moans were meant to prove a point to "Harry" that men are easily duped by a fake orgasm.)
+"There isn't a lot of research in this area," said Kristen Mark, a sexuality researcher at Indiana University, "but we're bombarded with images through mainstream media that tell us moaning is associated with orgasm and sexual pleasure. So it would be a fairly wise faking strategy to moan since men already tend to associate moaning with orgasm."
+Of course, there's nothing smart about faking it.
+"If you're faking an orgasm, you are signaling to your partner that he is doing everything right, when in fact he isn't," sex educator and author Patty Brisben said. "Use moaning as a way of signaling that you are excited and things really are feeling good, not as a way to hide that they aren't."
+Want better sleep, better mood and better sex? Cut calories
+Want better sex, more sleep? Cut calories
+Fake or not, women aren't the only primates who vocalize during sex. Research in the animal kingdom reveals that female baboons, for example, have a variety of copulation calls, which appear to relate to their fertility: The vocalizations tend to become more complex when the females are closer to ovulation and vary when a female is mating with a higher-ranked male baboon. Female macaque monkeys give a shout to help trigger their mates' orgasm, too.
+Performances and primatologists aside, vocalizing during sex can actually be a great tool to help women get what they want in bed. As I discussed in my column on the topic of talking about sex, it isn't always easy to translate sexual thought into action, so a little strategic moaning can definitely help get the point across.
+"Women are learning to take responsibility for their own sexual needs and wants in the bedroom," Brisben explained. "We need to take this one step further and give ourselves permission to become teachers. Use vocalization to teach your partner what feels good. It can help you say, 'stop, go, yes, more please,' without sounding like a traffic cop."
+How much sex should you be having?
+Scheduling sex: How much sex should you be having?
+And when it comes to noise, "partner benefit isn't the only piece of the puzzle," Mark said. "Perhaps making noise turns some women on and helps them experience pleasure."
+Brisben concurred: "I think there are many women who need to be vocal to help themselves achieve orgasm. It helps move them and their orgasm along. There are certainly phases. As a woman gets into it, she may become extremely vocal and then move into a period of quiet as she is on the verge."
+So do what feels right to you. Any other benefits are just a great bonus. And when it comes to "copulatory vocalization," perhaps men should take a lesson from the ladies.
+Join the conversation
+
+See the latest news and share your comments with CNN Health on Facebook and Twitter.
+"Women understand that moaning is a turn-on for guys, and many women ultimately enjoy it because they've made an effort to push a little beyond what comes naturally," said Logan Levkoff, a sex educator and author of a guide for men entitled "How To Get Your Wife to Have Sex With You."
+"But sexual self-esteem is a two-way street, and, for their part during sex, guys should aim for more than a single grunt at the end. It's not about faking or doing something you don't want to, but more about being sexually present and in sync with each other."
+So let's all make some noise.
+
+Each year, we have loads of teachers who come to the Photoshop World Conference, and even teachers who bring groups of students to the event, but here’s an opportunity for both: if you’re an educator and you have a star student that you think could really benefit from attending this summer’s Photoshop World 2017 Conference in Orlando, Florida (April 20-22, 2017), you can submit them for one of the twenty-five student full-conference pass scholarships we award each year. Here are the details:
+
+The Photoshop World Student Scholarship Program has been created to give promising students the opportunity to expand their Photoshop, graphic design, photography and creative skills by attending the Photoshop World Conference, a three-day conference offering invaluable training sessions led by the world’s leading experts in the creative industry.
+
+Each year, KelbyOne awards scholarships to talented students from across the country. The recipients receive free full conference admission, as well as a one-year membership to KelbyOne (which includes a subscription to Photoshop User magazine). The scholarship is valued at $998.
+
+The scholarships are awarded to 25 students based on a direct recommendation from their teacher. We’re looking to award these scholarships to the most deserving students based on talent, potential and passion and if you would like to nominate one of your best and brightest for a scholarship, please share a few words (below) about why the student you are nominating would make an excellent choice as a scholarship recipient.
+
+Deadline date for submissions is at 11:59 PM (ET) on Monday, March 6, 2017. If you have already submitted an application prior to March 6th, and have been chosen, you will be notified by a KelbyOne representative by Friday, March 10, 2017.
+
+Here’s a link to the submission form.
+
+Panel Discussion For Students
+Last year, for the first time ever, we hosted a special panel just for students about getting photography work after graduation, and the panel had some of the best working pros in the business (open to all registered students at the conference). Well, the panel was such a big hit, we’re bringing it back again this year, so if your student wins a scholarship, make sure they attend this special panel created just for them.
+
+For more information on the conference itself, visit PhotoshopWorld.com
+
+Hope you all have a rockin’ Monday!
+
+Hi gang — the weekend’s almost here, and that’s reason enough for an awesome little Lightroom tutorial that I hope will make you finally, and hopelessly, fall in love with HDR — yes, that HDR that you hate so much. Don’t worry — I hate that type of HDR, too. We all do. Even small animals hate that type of HDR (except squirrels for some weird reason).
+
+It’s a short little video, but you’ll totally “get” why this type of HDR exists, and why it’s a really great technique to know.
+
+Also (yet totally unrelated), I shared some photos of the new set for “The Grid” at the bottom of this post, so make sure you scroll all the way to the end). :)
+
+Hope you find that helpful, and that it sent some HDR “love” your way.
+
+Hey, if you’re looking for a good Photoshop class to watch this weekend…
+May I suggest Dave Cross’s awesome new KelbyOne class on Perfecting Selections. Members are totally loving this class (and if you’re not a member, you can still watch it right now – just take the 10-day free trial and start watching it immediately). Here’s the official trailer:
+
+OK, you’ve got some fun Photoshop learnin’ happening now from Dave this weekend. Hope yours is a great one, and we’ll catch ya back here next week. :)
+
+Best,
+
+-Scott
+
+P.S. Hey, did you catch the all-new set design, graphics, music, mics, and all on ‘The Grid?” Here’s some pics (below) is case you missed out. We went with an “Underground Hacker” look, and we got such great feedback from the live crowd (my guest this week was Rick Sammon). You can watch the entire episode (our blind critique episode) at
+
+t’s tempting to think you need a new piece of photography equipment to become more creative. While sometimes it’s true, (macro photography, for example, is much easier with a macro lens) creativity works best within restraints.
+
+Creative photography exercises
+
+So, how do you become more creative without buying more gear? Here are some ideas to take you out of your comfort zone and give you new skills to master.
+1. Find a new subject
+
+Every photographer has a favorite subject and others that they photograph rarely, if at all. For me, that would be any kind of still life, including food photography. The first challenge is to find a new subject. It should be something that you haven’t photographed before. Even better if it helps you learn new photography techniques.
+
+For example, are you a landscape photographer who has never taken photos at night? Then set yourself the challenge of taking some great photos of the night sky. You won’t need any extra gear – just the desire and drive to learn a new skill.
+
+Once you’ve found a new subject ask yourself the question, “How can I take this to the next level?”
+
+For instance, in my case (using the earlier example of food photography) it’s easy to go to a restaurant or cafe, order some food, and take a photo of it. There’s hardly any work involved as it’s the chef’s responsibility to make the dish look good, as this photo below shows.
+
+Creative photography exercises
+
+It’s a lot harder to do the same yourself at home. Preparing the dish from scratch and presenting it properly so it looks delicious is much more difficult. But you’ll learn a lot more about food photography from the process.
+2. Find themes and projects
+
+A theme is a connection between photos. One way to identify the themes running through your work is to pick your favorite 10-20 photos taken in the last 12 months. Examine your choices analytically. What subjects are you photographing the most? What lenses do you use most often? Are your favorite photos color, black and white, or a mixture of the two?
+
+You are looking for themes that help you decide what you want to photograph next. When I did this exercise I saw that two themes dominated – long exposures and street photography. This is a long exposure photograph from Spain.
+
+Creative photography exercises
+
+This is a street portrait taken at Carnival in Cadiz.
+
+Creative photography exercises
+
+As a result, this coming year I will find some new locations for long exposure photography, and more cultural events to photograph. The idea is to build a body of work around an interesting theme. The project will grow as you pursue it.
+3. Find new light
+
+Let’s say you are a portrait photographer who works in natural light. You like to be on location with your models at the end of the day and work during the golden hour.
+
+If this is you, what other types of light could you shoot in? If you normally shoot outdoors, what about an indoor location? If you like working on sunny days, how about a cloudy or rainy day?
+
+I lived in Wellington, New Zealand for several years. There were only two or three foggy days during that time. It was a new type of light for me – here’s one of the photos I took in the fog.
+
+Creative photography exercises
+
+You can apply this to any genre of photography. Think about the type of light you prefer to work in, and then change it around by trying something different.
+4. Use the wrong lens
+
+The earlier exercise of picking your best images from the previous 12 months should highlight the lenses you prefer to use for your favorite subjects. What happens if you try something different?
+
+The idea here is to use the wrong lens for the job, or at least a lens you’re not accustomed to using.
+
+Imagine, for example, that you are a photographer who only ever uses telephoto lenses to shoot portraits. What happens if you use a wide-angle lens instead? How can you make it work? Yes, the portrait will look horrible if you get too close to your model with a wide-angle lens. But what about taking a more environment approach? The model becomes part of the scene and the wide-angle lens helps you capture it. The exercise will force you to see differently and find creative ways to use unfamiliar equipment.
+
+But what about taking a more environmental approach? The model becomes part of the scene and the wide-angle lens helps you capture it. The exercise will force you to see differently and find creative ways to use unfamiliar equipment. I made this portrait with a 24mm lens. It’s okay, but the distortion means it probably wasn’t the best lens to use.
+
+Creative photography exercises
+
+Here’s another photo, taken with the same lens. I used it to photograph the model in a natural environment and it worked much better.
+
+Creative photography exercises
+Conclusion
+
+Hopefully, these creative exercises will help you become a better photographer. Feel free to adapt and combine them. For instance, what happens if you shoot a new subject with the wrong lens in a new type of light? You won’t know until you try it, but you’ll have fun finding out.
+
+
+
+Uber just showed how committed it is to mapping the planet. The ridesharing outfit has started rolling out map cars in Singapore, putting the vehicles on five major continents (sorry, Antarctica, you'll have to wait). As in other cases, the cartographic cars are really driver rides with mapping tech on top to collect data based on real trips. Privacy shouldn't be an issue, Uber says -- they won't keep imagery from the end points of your trip, and what data they do collect won't be made public.
+
+The company is still a long way off from having comprehensive mapping data of its own. Outside of North America, it only has mapping hardware in one country per continent. All the same, it's an important step. As much as Uber depends on Google for its regular mapping, it has a strong incentive to collect as much of its own data as possible. At a minimum, this means maps that reflect the harder-to-pinpoint aspects of routes, such as the exact side of a building for a drop-off. And Uber isn't shy about how much this will help its self-driving car plans -- especially in Singapore, which has embraced autonomous tech relatively quickly. What Uber invests now could pay tremendous dividends when robotic ridesharing is commonplace.
+Hey folks, just a quick heads up that I will be teaching at the Dynamic Images Photo Conference in Reading, PA, on Saturday, March 25th. The conference is put on by the Berks Photographic Society, a rather large camera club that has been doing conferences for 58 years.
+
+Reading, PA is within easy reach of Baltimore, Philly, New York and Intercourse. So if you are looking for something to do on the last weekend in March, there is a whole three-day roster planned with concurrent seminars, workshops, shooting sessions, etc.
+
+My afternoon talk will be a similar approach to that of The Flash Bus tour back in 2011. (Evolved a bit, of course.) So if you missed that, now's your chance to get a few hour's worth of start-from-zero flash photography firehose. It's suitable for beginner through intermediate level lighting photographers, so please do not be intimidated by the planned pace.
+
+I am but a Saturday afternoon cog in the three-day weekend machine. There are lots of other things going on, with multiple instructional paths from which to choose happening at once. The entire three-day weekend is $169, but you can get 10% off by using the coupon code "dynamic."
+
+The seats are opened to their membership first, so if you want to attend I would get on it sooner rather than later. Full info is here.
+
+Hope to see you there. I'll be the guy in shorts.
+
+Whether you work from home, have a hobby or craft like writing or art, or just appreciate the importance of stepping away from the typical household chaos, creating a sacred space in your home to which you can retreat can improve concentration, increase productivity, and reduce stress levels. Regardless of what the specific purpose is, here are some qualities to focus on when setting aside a nook for peaceful pursuits:
+
+
+
+    Light. Lighting has a huge impact on a room and its suitability for the purpose of your space. If you want to create a calm mood, choose low-wattage, warm lighting. If you are looking for a space where you can retreat but also be productive, opt for blue-white light overhead lighting that has been shown to boost productivity. If you live in an apartment or are using a small interior room, it’s likely that you won’t have access to ample natural light to brighten your space. Choosing good quality lighting that casts the right level of ambience is crucial in designing a space that is welcoming and positive.
+    Comfort. It’s essential to fill your room with the right kind of functional furniture. You can create clear surface areas for work spaces as well as design simple comfort nooks for relaxation and contemplation. Whether you are planning your room to be for quiet endeavors like meditation or for something that requires quiet and concentration like writing, choosing the right furnishings will help you capture the right mood. Simple accent chairs accompanied by a throw pillow or two can transform a corner of a room into a soft sanctuary.
+    Organization. Scientific studies have shown that visual clutter has a negative impact on your ability to focus and can even exacerbate mood disorders like depression and anxiety. There’s something to be said for designing a room in a minimalist style. Surround yourself with clean lines, neutral colors, do a major purge of old papers, supplies, or unused items that are gathering dust. Your sacred space shouldn’t have any extraneous items in it. If you want to house supplies for crafts or hobbies, consider installing a few chic-looking cabinets to keep the clutter out of sight.
+    Digital detox. If you are like most people today, you are in a relationship with your smartphone and you keep it safe and close to you at all times. Spending too much time watching screens has a negative effect on your ability to concentrate on a single task and it’s important to step away from your gadgets on a regular basis. If you want to create a sacred space in your home where you can concentrate, clear your head, and relax, you may want to consider keeping it low-tech. If you want to write and can’t bear the thought of writing longhand, set up an old computer or word processor that isn’t connected to the Internet so you won’t be tempted to stray onto Facebook or Instagram.
+    Versatility. Most of us don’t have the luxury of devoting entire rooms for a single purpose like meditation, hobbies, or work, but even if you live in a small home, you can still create a space within it that has positive energy and inspires you to create, relax, and unwind. Even a small room can be set aside for privacy and creative or contemplative pursuits. With the proper organization and design, you can turn a single room into a multi-purpose space that allows you the freedom to step away from your busy life and devote some much-needed time to self-care. A single room can be for yoga or meditation, crafts, art, work-from-home, or even just a comfortable space set aside for reading or listening to music.
+    Security. Part of creating a haven in your home is making sure you don’t have the stresses that are associated with the unknown. In order to set your mind at ease, you should work on being proactive with your home security. Whether you go with a DIY home security system or a professionally installed one, you will be happy with the peace of mind it provides you and your loved ones.
+
+Whatever you choose to do with the space you set aside, considering things like lighting, organization, and versatility will open you up to a world of relaxing and creative possibilities.
+
+Tiny houses and RVs are becoming popular living options. For many, the idea of downsizing is appealing. For others, the ability to travel often is what pulls them in. Whatever their reasons for moving into such small living spaces, what they all soon discover is that organizing a tiny home is no easy feat.
+
+However, that’s not to say that organizing such a living space is impossible. Plenty of people are living in well-organized small spaces all over the country. These individuals have used a combination of brains and minimalism to make their tiny homes functional, neat, and cozy while still holding onto everything needed for day-to-day living.
+
+Here are a few tips that can help you get your little home organized and looking amazing in no time flat.
+
+Declutter
+
+The first and most important step to keeping a tiny living space looking neat is to declutter. In order to downsize to an RV or tiny house, you simply must get rid of things. For most people, this means selling off 80% (or more) of their possessions in a yard sale.
+
+If you aren’t sure whether or not something should be kept, consider the last time it was used. More than a month ago? It can probably go.
+
+That said, for most people, getting rid of most of what they own is very difficult to do. Therefore, it might be helpful to find ways to fill any void you fear you may feel when your material possessions are gone. Volunteer work, travel, and learning a new skill are all amazing experiences that are infinitely more valuable than the material items you have held onto for so long.
+
+Furnish Wisely
+
+When furnishing a small space, it is important to use space wisely. Purchasing items that have multiple functions is recommended. For instance, a day bed with drawers underneath that can function as a couch, bed, and clothing storage space is an amazing option for a tiny house.
+
+Folding furniture can also work well. An example of this would be a table that can fold away to open up more floor space when it’s not in use.
+
+Add Cabinets
+
+All too often, tiny homes and even some RVs are lacking in cabinet space. This makes it nearly impossible to store essential items such as cookware, clothing, and toiletries.
+
+Fortunately, this can be fixed fairly easily by purchasing custom-made cabinets from a cabinet company. While these will cost a bit more than some ready-made storage options, they can be customized to fit your needs and will be mounted up on walls so as not to intrude on precious floor space.
+
+Hang It Up
+
+From mugs to jackets and even to fruit, there are a great number of things which can be hung from the walls and ceilings in your tiny home. If you are unsure where to keep a particular item, consider whether or not it can be hung from a hook or over a door. If the answer is yes, you should probably hang it up rather than use what little cabinet space you have storing it.
+
+Over-the-door shoe organizers, hanging closet organizers, and hanging fruit baskets can all help you take full advantage of the hanging space in your home.
+
+Put It Away
+
+Small spaces typically become cluttered more quickly than large homes. For this reason, it’s crucial that every item has a place, and that it is put back into its place immediately after each use. Sure, this will mean washing dishes more often and putting away projects between work sessions, but the peace of mind you will receive when your home is clean and tidy will be well worth the extra effort.
+
+Looking for more ways to make living well and doing well fit into your lifestyle?
+
+10 Handy Hacks for Lооking Great With No Makeup
+Carol/09 Feb, 17/166/0
+
+Pеорlе gеnеrаllу wear mаkеuр bесаuѕе it makes thеm fееl bеttеr аbоut thе wау thеу рrеѕеnt thеmѕеlvеѕ tо thе world. Makeup саn givе you a glоw аnd саn соvеr thе blemishes аnd асnе уоu might not fееl соmfоrtаblе diѕрlауing tо thе реорlе аrоund уоu.
+
+Hоwеvеr, ѕоmеtimеѕ mаkеuр саn сrеаtе a viсiоuѕ сусlе, juѕt сrеаting mоrе blemishes оn уоur fасе by сlоgging уоur pores. This iѕ whу it iѕ imроrtаnt tо buy mаkеuр fоr ѕеnѕitivе ѕkin. Natural соѕmеtiсѕ will hеlр givе уоur ѕkin a ѕhinу glow, whilе сrеаting safe аnd hеаlthу ѕkin with a уоuthful еffеrvеѕсеnсе.
+
+Thе nаturаl mаkеuр рrоduсt соntаinѕ ingrеdiеntѕ thаt аrе gооd fоr skin. Fоr wоmеn whо саn’t gеt tо a ѕра, triрlе-millеd minеrаlѕ likе titаnium, gоld, zinс, mаgnеѕium and aluminum naturally rеlаx, rеfrеѕh аnd rеjuvеnаtе thе ѕkin, аnd оffеr a gеnuinе bеаutу ѕоlutiоn in the соmfоrt hоmе.
+🎀Yоur beautiful nаturаl eyebrows🎀
+
+If уоu wаnt tо lооk grеаt with no makeup, thеn trу tо еmрhаѕizе уоur natural fеаturеѕ. Lеt’ѕ ѕtаrt with уоur bеаutiful еуеbrоwѕ. Lооk in thе mirrоr аnd nоtiсе nаturаl ѕhаре оf уоur еуеbrоwѕ, if уоu оvеr-рluсkеd thеm, thеn trу tо grоw thеm back (apply nаturаl оilѕ оn your еуеbrоwѕ еvеrу еvеning; uѕе castor оil, оlivе оil, сосоnut оil оr burdосk rооt оil) аnd thеn, ѕhаре уоur brоwѕ оnсе аnd fоr аll with thе help оf a рrоfеѕѕiоnаl.
+
+If уоu wеrеn’t bоrn with thiсk brоwѕ, аррlу a mixturе of castor оil аnd ѕwееt аlmоnd оil on your brows еvеrу еvеning before gоing tо ѕlеер; dо it fоr оnе оr twо months аnd ѕее wоndеrful rеѕultѕ!
+🎀Bе trаnѕраrеnt🎀
+
+Whеn wе аrе tаlking аbоut bеаutу withоut mаkеuр, it dоеѕn’t mеаn thаt we ѕhоuld соmрlеtеlу ignоrе аll thе beauty induѕtrу and fоrgеt аbоut аll соѕmеtiс рrоduсtѕ. Thеrе аrе ѕоmе grеаt рrоduсtѕ оn thе mаrkеt thаt саn hеlр уоu еmрhаѕizе уоur nаturаl bеаutу, ѕuсh аѕ еуеbrоw gеlѕ аnd trаnѕраrеnt mаѕсаrаѕ fоr уоur еуеlаѕhеѕ, сhар ѕtiсkѕ, liр balms аnd liр glоѕѕеѕ with nо оr a littlе bit оf соlоr; thеѕе nоuriѕh уоur liрѕ аnd mаkе уоu lооk frеѕh, natural аnd bеаutiful.
+🎀Hеаlthу еаting аnd wаtеr🎀
+
+Good fооd is imроrtаnt nоt оnlу fоr thе bеаutу оf оur ѕkin, but also fоr thе оvеrаll hеаlth оf оur bоdу. Make sure уоu еаt frеѕh fruitѕ аnd vеgеtаblеѕ еvеrу dау, аѕ wеll аѕ hеаlthу fаtѕ аnd рrоtеinѕ; thеѕе аrе ѕо imроrtаnt for our bеаutу.
+
+And, оf соurѕе, оur bеѕt friеnd iѕ wаtеr! Trу tо drink аbоut 8 glаѕѕеѕ оf wаtеr a dау аnd аlѕо trеаt уоurѕеlf with a green or whitе tеа frоm timе tо timе, bесаuѕе thеѕе аrе riсh in аntiоxidаntѕ аnd will hеlр уоur ѕkin lооk frеѕh аnd young fоr a vеrу lоng timе, еvеn with no makeup.
+🎀Sоft рink Lips🎀
+
+Thеrе iѕ a vеrу ѕimрlе tiр on hоw tо mаkе уоur liр рink and ѕоft: gеntlу mаѕѕаgе уоur lips. Uѕе a ‘ѕugаr hоnеу’ scab; thеn rinѕе аnd аррlу Shеа butter (уоur nаturаl moisturizer) оn уоur liрѕ. Nоw, fееl hоw tеndеr, уоur liрѕ fееl ѕоft; уоur рrinсе сhаrming wоn’t bе аblе tо ѕtор kiѕѕing уоu!
+ 🎀Smile and love уоurѕеlf🎀
+
+Bеliеvе it or nоt, juѕt ѕimрlу ѕmiling саn mаkе уоur lооk аrоund tеn timеѕ bеttеr, аnd саn diѕtrасt реорlе frоm уоur flаwѕ. Smilе will inѕtаntlу hеlр уоu tо fееl аnd lооk рrеttу, еvеn if уоu don’t hаvе аnу mаkеuр оn!
+
+Lоvе уоurѕеlf. Aссерt уоurѕеlf fullу and соmрlеtеlу. Lоvе the wау уоu lооk with оr with no mаkеuр, bесаuѕе you аrе trulу uniquе аnd bеаutiful! Rеmеmbеr it!
+🎀Yоur ѕkin iѕ уоur еvеrуthing!🎀
+
+If уоu dесidе tо lеаd a lifе withоut mаkеuр, it dоеѕn’t mеаn thаt уоu nееd tо соmрlеtеlу lеt gо оf аll skin саrе рrоduсtѕ.
+
+Mаnу ѕkin рrоblеmѕ аrе асtuаllу related tо thе еxсеѕѕivе uѕе of mаkеuр; skin tоnе bесоmеѕ uneven bесаuѕе оf the rеасtiоn оf уоur bоdу оn a fоundаtiоn, соngеаlеr оr bluѕh. If уоu ѕtор uѕing fоundаtiоn (аt lеаѕt fоr a whilе), аftеr ѕоmе timе, you’ll nоtiсе thаt уоur ѕkin tоnе will improve аnd thеrе will bе nо need оf thаt thiсk mаkеuр mаѕk аnу mоrе. Sрlаѕh уоur fасе with соld wаtеr in thе mоrning аnd in thе еvеning fоr about 10 ѕесоndѕ. This hеlрѕ tо tоnе уоur ѕkin nаturаllу аnd will аlѕо hеlр сlоѕе роrеѕ.
+ 🎀Tаkе саrе оf уоur hаir🎀
+
+If уоu wаnt tо lооk рrеttу with nо mаkеuр оn – it’ѕ imроrtаnt tо tаkе a gооd саrе of уоur hаir аnd kеер уоur hаir соlоr сlоѕе tо nаturаl.
+
+Trу tо kеер уоur hаir in grеаt condition bу uѕing right hair саrе рrоduсtѕ thаt аrе suitable fоr your hаir tуре, аnd dо hаir mаѕkѕ аnd оil trеаtmеntѕ rеgulаrlу. Nоthing саn bе mоrе bеаutiful thаn ѕilkу аnd ѕhinу lосkѕ!
+🎀Gеt еnоugh sleep🎀
+
+Slеер iѕ аftеr аll оnе way thаt реорlе саn gеt tо rеfrеѕh thеmѕеlvеѕ аnd gеtting еnоugh ѕlеер iѕ аlѕо оnе wау thаt реорlе саn kеер thеmѕеlvеѕ frоm lооking аll hаggаrd in thе morning.
+
+Slеер iѕ thе fоundаtiоn оf everything уоu dо. It аllоwѕ уоu tо rеbuild уоur bоdу, tо rерlеniѕh уоur сhеmiсаl ѕtоrеѕ, аnd tо hаvе the аlеrtnеѕѕ tо funсtiоn thrоughоut the dау. 8 hоurѕ iѕ thе rесоmmеndеd dose of ѕlеер реr night fоr thе аvеrаgе реrѕоn, уеt thе аvеrаgе реrѕоn iѕ оnlу gеtting 5-6 оn a gооd dау.
+🎀Find уоur оwn соlоr🎀
+
+Choose a fеw соlоrѕ thаt аrе vеrу сlоѕе tо уоur nаturаl ѕkin tоnе. Yоur jаw linе iѕ thе bеѕt testing аrеа fоr nеw fоundаtiоnѕ. Put оn a littlе, аnd blеnd. Tаkе a lооk in thе mirrоr, аnd see whаt уоu think about thе соlоr аnd tеxturе оf thе mаkеuр. Stаnd in thе natural light if аt аll роѕѕiblе, аnd uѕе a hаnd mirrоr tо ѕее if уоu like thе foundation. Thе nаturаl light iѕ thе bеѕt аnd true test tо mаtсh уоur реrfесt соlоr.
+🎀Alwауѕ сlеаn уоur fасе!🎀
+
+Yоur рrimаrу оbjесtivе in асhiеving nаturаl bеаutу withоut mаkеuр iѕ to bеgin with lovely ѕkin. If it iѕn’t уеt, ѕо уоu will nееd to wаѕh уоur fасе twiсе a dау аnd muѕt mаkе it your dаilу rоutinе. Select a fасiаl сlеаnѕеr thаt iѕ tоtаllу 100% nаturаl, аnd if уоu’rе аt thе аgе оf 30 оr аbоvе, ѕеlесt one whiсh hаѕ an аnti-аging еlеmеnt.
+
+All homeowners know how irritating pests can be under from having pests. Be sure you’re doing whatever you can to rid yourself of pests by incorporating the following advice.
+
+Do you have a recurring fruit flies? You might have to check your drain for consistency. Tape some plastic wrap over a drain for a few days to see if fruit flies start popping up. If so, some boiling hot water poured into the drain and a brisk scrub should eliminate them once and for all. This should prevent fruit flies from making a nest in your home.
+
+Hairspray can be used to kill bees and wasps.
+
+Bedbugs are able to get as long as a year before coming back in full force. This is the reason why you have to make sure any holes in walls and floors. They will not be able to get into these spots.
+
+People that struggle with flying pests need to repair the screens inside their homes. Screens will also keep both flying and crawling bugs out. Fix holes you find and replace the screens if they are damaged.
+
+Bedbugs are sneaky little creatures that are hard to eliminate. Seal off any holes in the bed frame and around the bed before you poison bedbugs. This will keep any of the house you are not exterminating.
+
+Electronic pest repellents can work really well. These tiny devices plug into room outlets where they emit a low buzzing noise that will keep rodents away when plugged in. Humans cannot hear the sound, but the noise will not hurt you. Rats and mice hate the sounds and will stay away from them.
+
+You need to find out as much information as possible about pest control if you want to get rid of a particular pest. The more you know about a pest, the easier it is to form a plan to rid yourself of it i  suggest you  to go pest control service online
+
+You need to learn how pests are getting into the house. For instance, there might be a little gap in your window where spiders come in, or perhaps you pet is bringing insects in. You can begin to prevent the pests from entering your pest problem until you know how they’re getting in.
+
+Examine your foundation and walls for cracks. These cracks are a target for pests to enter your home. This can sometimes be the place that pests will use.
+
+It is not true that using more product will work better.
+
+Use some hairspray on flying bugs. Perfume can also be used, but don’t get either in your eyes. These are flammable so be careful around flames. This is a good way to get rid of them if you have no bug spray handy.
+
+Consider how you’re spraying your pesticide application method if you have persistent bug problems. If you spray only the outside of a home, the pests hiding inside may be unable to escape. You want to spray inside of your home along with the outside.
+
+Speak with your neighbors for tips. Your neighbor might be having the same pest. They might have suggestions that you to use. You can also be able to alert your neighbor about a potential problem that may exist in his house at the moment.
+
+Carpenter ants are usually the symptoms leading to a much larger predicament on hand. Carpenter ants are attracted to wet wood, so you may have leaks throughout your house. Have an expert come in to determine your problem is and how to fix it.
+
+You can also keep windows left open if you weren’t worried about bugs coming inside.
+
+If you notice some wood damage in your home, make sure you check out the wood’s annual rings. If these areas are damaged, the problem is not termites, as they only eat soft parts of wood. If you do find that the rings are not damaged, termites just might be your problem.
+
+Check near your garden hose and by any other places you think water might be.
+
+If you continue to find pests in the house after a possible solution, figure out where they are coming from. While you can score a real bargain at the thrift store, your finds could be harboring pests! Thoroughly check the items that enter your home.
+
+If bees are living around your house, you would be better off calling a pro. It is hard to identify Africanized colonies and it’s best not to take any risks since these aggressive bees could kill you.
+
+If your problem is carpet beetles, getting rid of the carpet may have to be the fix. If you don’t throw them out, this may not be good for your health.
+
+Centipedes like silverfish in that they need to live in a damp and humid environment. Ensure that your closets and basements. Centipedes cannot thrive if you eliminate excessive moisture in your home without the extra moisture.
+
+When you have terrible dust mite allergies, try wiping your mattress’ plastic cover every day. You can also launder your bedclothes daily as well. A protective pillow cover might also be a great addition.
+
+If you find pests in any food, throw the food away. Make sure you dispose of them in a container far from your house as possible. This will help to keep them far away from your kitchen.
+
+Flour moths are attracted to your flour-based foods. You have to make sure that there is no food for them out of your home. Make sure your food is completely sealed, and the pest problem will solve itself.
+
+Rat traps can effectively be used to deal with a rat infestation. Then place traps near where you find rat droppings are found.
+
+Use what you’ve learned to help rid yourself of pests. These pests are able to become a problem while being an annoyance, so do whatever is in your power to rid yourself of them quickly. Make use of the tips you’ve just read, and you can hopefully eliminate them from your home for good.
+
+You spend approximately a third of your adult life at work. Often your career defines and gives value to your lives. The level and amount of success in your job is the primary criterion of your popularity and worth.
+
+Because of this expectation by modern society, many people fall into the trap of working their hearts out to the point that they are overworking themselves to death. Some are working way beyond their workload to prove to themselves that they are on par with or surpass their company’s standards to the point that they already forget about their personal needs and losing track of what they want to achieve in life. These kind of people are likely to have burnout.
+
+Burnout is a condition where you experience physical and emotional fatigue. It can surface when you undergo a long-term stress in your career. It can also take place when you have worked in a role that drains you physically or emotionally for an extended period. You can also experience it when you consider yourself a failure in reaching your expected outcome at work even though you put your best efforts to it.
+
+People at risk of burning out
+
+People react differently to their jobs. Below are some who are more likely to burn out in work:
+
+• Those who identify so strongly with work that they lack a reasonable work-life balance.
+• Those who try to please everyone to the point that they compromise their self just to accommodate others.
+• Those who work in a helping, social professions such as health care, counseling or teaching. Those who sense they have little or no control over their work. Some people quickly lose their grip on their lives because of lack of assertiveness skills.
+• Those who are stuck in monotonous jobs. Occupations that fails to stimulate or interest you can burn you out.
+
+Critical signs
+Are you one of the people at high risk of being burned out? Check out if you are currently experiencing burnout:
+
+• Fatigue – You feel exhausted physically, emotionally and intellectually. You feel as if your energy is completely spent.
+• Loss of motivation – You have lost enthusiasm, and you are just dragging your feet just to work.
+• Becoming more cynical and having other negative emotions – Aside from losing your drive to work, you might experience negative emotions such as pessimism and disillusionment. You become more critical of your work.
+• Cognitive problems – You may often be distracted and inattentive to your job. You can even be more focused on the details of the possible adverse outcomes of your task.
+• Slipping job performance – The quality of your performance at work drops because of negative thoughts and decreased interest and focus in your job.
+• Interpersonal problems at home and work – Your disappointment and negativity are not only confined to your office; it can extend to your family and circle of friends.
+• Not taking care of yourself – You begin to neglect your personal health and hygiene by engaging in bad habits such as eating junk foods and skipping exercise.
+• Decreased overall satisfaction – Your passion for life dwindles as a result of being occupied with your workload and responsibilities.
+• Preoccupation with work while away from office – You become too much tied to your work that you are thinking about it even during your leisure times and bonding with your family and friends.
+• Health problems – Over an extended period, severe chronic stress brought about by burnout can create serious health problems such as digestive problems, heart disease, depression, and obesity.
+
+Ways to relieve burnout
+If you think you are experiencing burnout, there are many ways to combat it and the numerous dangers it poses. If you belong to the people at risk or you are experiencing any symptoms of burnout take the following steps to overcome it:
+
+• Find out if your work is in line with your life purpose – It is never too late to find your life purpose and to realize it. Many people are working without an apparent reason apart from making money.
+
+One way to discover your purpose is to take the Eulogy Test. Imagine you are at your funeral, what descriptions would you want your family, friends, colleagues, and other people say about you? If your work does not contribute to their descriptions, you may either change your perspective about your job or find another career that will lead you to fulfill your life purpose.
+
+• Make a job analysis – If you feel you are swamped with a ton of workload, see if you are doing more than what is expected of your job description. Negotiate with your employer/supervisor if you believe they are overloading you with tasks.
+
+• Take control of your work – Be proactive in your career. Reassess your job goals. Volunteer to take tasks that will help you reach your goals and say “no” to the extra tasks that do not contribute to them.
+
+• Use your vacation leave – Getting drowned in too much tasks and information is one cause of burnout. To temporarily get out of the humdrum of your daily job, get out of your workspace and travel to outside your familiar sphere.
+
+• Exercise regularly – Experiencing burnout often lead you to a gloomy mood and pessimism. A regular session of workouts can boost the production of endorphin, your happy hormone. That can relieve mental, emotional and physical stress.
+
+• Learn to manage stress – Aside from exercise, there are other ways to reduce stress. Getting quality sleep every night is one such method, another is through doing mindfulness exercise and positive thinking.
+
+• Extend help – Providing assistance to others and volunteer work in various ways can uplift your emotions and boost your self-worth.
+
+Can brain training really make you smarter? The short answer is yes, it can. The long answer is yes, but a lot depends on the type of brain training you’re using, how regularly you’re using it, and perhaps most of all, your definition of “smarter.”
+
+The idea that brain training or anything else could significantly alter the abilities of the adult brain is actually relatively new. Until the early 20th century, the adult brain was regarded as basically unchangeable, developing during critical early years of childhood but then becoming fixed and static. This concept was overturned a little over a century ago, when scientists began to theorize that the brain continues to change throughout life, reorganizing and actually reshaping itself.
+
+The relatively new science of neuroplasticity is a study of the physical processes of change within the brain, and it has shown that the brain is indeed far from static. Each ability we gain or lose is reflected physically in the brain; gray matter can increase or decrease, and neural connections can be created or severed. Neuroplasticity research suggests that training the brain is a lot like training the body; the more you exercise a specific muscle, the bigger and/or stronger it will become. You’ll get better and faster at doing any task you perform regularly and frequently, and your brain will physically reorganize itself to make this possible.
+
+A classic example of this neuroplasticity and brain self-reshaping was uncovered in a landmark study in 2006 on london taxi drivers, whose job requires some very specific brain training in the form of storing vast amounts of route and geographical information. MRIs of the taxi drivers’ brains showed that they had unusually large volumes of gray matter in the mid-posterior hippocampus, the area responsible for storing spatial information.
+
+The study found this extra brain volume was absent among London bus drivers, who also navigate the streets of the city daily but consistently drive the same routes. The bus drivers had no need for storing large volumes of spatial information, so their gray matter volume in that specific area of the brain was not increased.
+DUAL N-BACK: INCREASE INTELLIGENCE AND MEMORY
+
+While most brain training programs haven’t been shown to increase overall long-term intelligence, there is one that seems to be capable of producing generalized long-term cognitive improvement. Dual n-Back, a variation on a widely used cognitive neuroscience assessment tool, is the only brain training task that has been shown to actually improve long-term fluid intelligence. And, it’s available to you completely free.
+
+chess game
+
+The Dual n-back test, introduced in 2003, simultaneously presents the subject with two stimuli, one visual and one auditory. The subject attempts to identify matches in following turns, pressing one designated key if the match is visual and another designated key if the match is auditory. In a Dual n-Back test in which n=1, the user would be asked to recall both the location of the visual stimuli and the audio stimuli in the previous turn. If n=2, the user must recall both stimuli presented two turns back.
+
+Research suggests that regular training with Dual n-Back can measurably improve recall capability and increase fluid intelligence, which includes the ability to think abstractly, reason, identify patterns, solve problems, and discern relationships. A study published in the Proceedings of the National Academy of Sciences (PNAS) indicates that Dual n-back training actually expands working memory, which predicts and correlates with fluid intelligence. While these findings remain somewhat controversial, they do offer solid scientific encouragement about brain training effectiveness.
+
+Most people find Dual n-Back training falls somewhere in the range between exceptionally challenging and fiendishly difficult. But studies suggest that it’s the very effort that it requires that makes it capable of producing lasting and generalized brain changes. The n-back task taps into several crucial brain functions, including working memory. Training with Dual n-Back is thought to enhance the brain’s ability to maintain information in an active, easily retrieved state, especially under conditions of distraction or interference.
+THE BOTTOM LINE: IS BRAIN TRAINING WORTHWHILE?
+
+We all do brain training of some description every day. Whether it’s driving a car, doing a crossword puzzle, dancing a rumba, or simply typing on a keyboard, doing the same thing over and over trains the brain and will eventually improve our skill at that specific task. Of course even this type of everyday brain training is not without limits and drawbacks; brain training has an exceptionally high “you get out of it what you put into it” quotient.
+
+If you consistently type with just two fingers, you’ll get faster and faster with time, but practicing that method won’t turn you into a proficient touch typist no matter how long or frequently you do it. With the sole documented exception of the Dual n-Back task, brain training doesn’t appear to generalize to improve overall intelligence or even related skills. You get better at whatever you actually do.
+
+When it comes to every day brain training, you can absolutely enhance your ability to perform specific tasks and skills by practicing them. Your brain will reorganize itself to accommodate and facilitate those specific skills, and you’ll see the benefits in faster, better, and more efficient performance.
+
+brain exercise
+
+Unfortunately at this time there is little documented science to support the concept that most everyday brain training translates to generalized overall improvements in cognitive function and fluid intelligence. This also applies to special brain training games and programs, but they’re fun, stimulating, and can be beneficial to the brain by exercising aspects of cognition like concentration, alertness, and focus. However there is some solid albeit controversial research backing up the idea that training for about 20 minutes a day with the Dual n-Back task may actually enhance fluid intelligence.
+
+Whether or not brain training is worthwhile depends to an enormous extent on the user and his or her goals. Training in a specific task or skill will make you better at that task or skill, and training with the Dual n-Back task may possibly increase your fluid intelligence and boost your IQ. But again, the parallels between brain and body training are pertinent: in both cases, any exercise is better for you than no exercise at all.
+Boosting Brain Power with Nootropics
+
+In addition to all that has been discuss, a shortcut that many students and professionals are using is the use of nootropics. Nootropics is a drug that enhance cognitive function like creativity, memory, motivation, logic in people. A team of neuro scientist at Nootrolux has created an advanced nootropic formula. Nootrolux™ BRAIN BOOST, a strong nootropic that is develop to help you remember names, places, focus on complex tasks, and improve your mental processing speed.
+
+There is no official data on their usage, but nootropics as well as other smart drugs appear popular in the Silicon Valley. Most tech companies will have at least one person on something like this. It is a hotbed of interest because it is a mentally competitive environment in silicon valley.
+
+Get Ready With your Tools:
+
+Grab a pencil, paper and a metal measuring tape for taking window measurements. If you’re using a cordless drill to hang up your drapery rod, make sure your battery is fully charged. Decide on the type of aesthetic appeal that you are trying to achieve as well as the intended function of the window coverings and purchase your curtains and hardware accordingly.
+
+TIP ! Be careful when using a fabric measuring tape as it can stretch or droop, leading to inaccurate measurements
+2. Choose Your Mounting Technique:
+
+To determine how long your drapes should be, consider the mood you want to project in the room. To create a formal room, curtains should puddle on the floor (to achieve the ideal drape puddle, you should add 2-4″ of additional fabric to your length). Otherwise, fabric should hit the top of the floor. Fabric should always be long enough to cover the baseboard.
+
+When preparing to hang drapes using an outside wall mount, make sure the hardware extends 3″ to 4″ beyond the outside of the window frame and 4″ to 6″ above the trim. To ensure minimum light gaps and maximum privacy, add 4″-5″ of fabric on both sides of the window. For narrow windows, additional fabric should be added to the sides of the window frame and fabric should cover the frame, exposing a small amount of glass.
+
+If you are attaching hardware on the side of the windows to loop tie backs through, make sure your measurements are even on both sides of the window.
+
+        Inside Mounts:
+
+Creates a sleek, modern appeal to windows. The inside mount technique is appropriate for applying Roman shades or if you want to keep molding in line of sight. Remember to keep all hardware within the frame. When measuring for an inside mount, begin with the width. Measure the window at 3 different points (top, middle, bottom) and use the narrowest figure for your final measurement. For determining the length, measure 3 different points and use the longest figure for your final measurement (unless you are hanging Roman shades, than use the shortest measurement.)
+
+        Outside Wall Mounts:
+
+A more traditional, classic method for mounting drapes, outside wall mounts are perfect for creating the illusion of larger windows or for draping a fuller, more-dramatic look with more fabric. If you have a really wide window, you can break up the space by hanging several panels across the window. Hang your drapes so they flow straight down, or tie them back in pairs to show a more formal window treatment.
+3. Choose Your Drapery Rod Length:
+
+When choosing rod length, measure from bracket to bracket. Remember, most rods are expandable, and while they are offered in standard sizing (10″, 12″, 14″) they may be cut to a custom size or joined together for a greater length.
+
+For a room with low ceilings, you can add the illusion of height by placing the drapery rod closer to the ceiling. If you want a fuller, layered-look of fabric that creates a more dramatic window treatment, consider purchasing a double rod.TIP! Plan for fabric to be 2 to 4 times that of your window’s measurement for a rich, full look. Remember lightweight sheer fabrics create a lightweight treatment so you may want to purchase more fabric than usual, depending on your desired look.
+
+If you’re like me, you’ll want to take the easy option wherever possible. But that doesn’t mean I do things by half. I just wanted to enjoy my free time, sip a beer in the garden and not have the wife nag me to mow the lawn. And so I decided to get rid of the none-too-pretty attempt at a lawn that’s been the bain of my life (and my back) and opt to install fake grass. Best move I ever made. And here’s why.
+
+The choice to move towards synthetic grass  is now easier than ever.
+
+The choice of grass you can get these days and the simplicity with which it can be installed makes it such a tempting option for a fella like me. Before you begin,, the choice is actually sometimes too great. Did you ever go to a restaurant and find yourself unable to decide what to order because the menu is just “too big”. Well, that’s the dilemma I faced. But on the plus side the ease with which it can be installed makes it a relatively simple task. I’ll try to talk you through the points as best I can, from one beer sipping bloke to another, sort to speak.
+
+What’s the Use?
+
+Well, the first point is pretty important. What are you planning to actually use your garden for? In the future, are you going to be playing sports, having barbeques, playing with the kids, the dog or just simply sitting in a deckchair on a nice sunny day.
+
+Some people like to add it purely for decorative purposes. Others like to be more active on their fake lawn. But the choice you make will be influenced by whether you want a heavy duty lawn or whether some lighter synthetic grass will do you.
+
+OK, so the circumstances may change in the future. The kids grow up, the dog goes to doggy heaven (sorry to depress you here) and so on and so forth. But ultimately you need to plan for not just now but the foreseeable future. That’s why it makes sense to think ahead.
+
+Do you have children or pets?
+
+In addition the pet test is probably the toughest and most thorough test you can give your fake lawn. So for example, kids and dogs are going to put your fake grass through the ringer. Period. If you are planning on starting a family soon then you might want to op for the more comfortable yet long-lasting and durable synthetic lawn. This could be where your little one takes their all important first steps. And chances are you’re going to be rolling around with your little bundle of joy too.
+
+How much?
+
+Price is everything. Well, almost everything. It’s not going to be cheap. So it’s important to shop around and get as much bang for your buck as possible. Although, before I scare you off it’s not hugely expensive either. I guess you could say you get what you pay for and remember, you are adding value to your home.
+
+While you can always opt for the more expensive options on the market, it’s also possible to find good value artificial grass. As long as you are willing to shop around. When budgets are tight, it’s still possible to get a kick-ass garden that will be the envy of your neighbours.
+
+Right, that’s it for now. More to come in part 2 of this article. I need to sip a beer and watch the grass grow
+
+It’s OK to scour and scrape your oven. All the black build-up will need to be scraped. Carbon can form in a thick layer and if you are unable to use scour on it then I highly recommend some good old elbow grease and a scraper. Grease can form a thick layer at the bottom of your oven and splash on the sides. No matter how much you spray or use chemical foam, this will not remove the grime. The only way to cut through the layers is to use a scaper. So don’t be afraid!
+
+A scraper will get rid of the worst of the grime, but not all of it. It’s a good idea to warm (not heat) your oven before this as it will loosen the grime and grease. No more than 70 degrees though or you risk burning yourself. Old blades on the scraper should be discarded and I always say the new the blade the quicker the clean. So go for pristine and sharp blades. You will thank me!
+
+Tip 2
+
+Cleaning the Glass on an Oven
+
+Like before, it’s alway a good idea to heat the oven. But in the case of glass try to keep it around 40 degrees max. Again, it’s a way of loosening up the grime and melting any grease splashes. It’s not a good idea to have it so hot that the spray just disappears into thin air when it hits the overheated surface. You will know what’s right.
+
+Wet the glass next. You can use water, de-greaser or a soapy solution. All you are doing is getting the surface wet.
+
+Next up hold your scraper firmly with the edge pressed at a 25 degree angle to the glass. Scrape as hard as you can along the grime. This is the hard part of oven cleaning and should remove 95% of your dirt and grime.
+
+Lastly I use a common or garden cream cleaner or even a household oven cleaning paste to get rid of the last remaining layers of dirt. If you don’t want scratches then don’t use a scratch pad. For this part opt for the softer option.
+
+Tip 3
+
+The Tricky Bit Between Glass & Oven
+
+This is my bug-bear. Food or bits of grime that get stuck in between a pane of glass on the oven. But you’ll be glad to know that most modern ovens come equipped with removable doors and glass that come off. It’s a simple as removing a couple of screws usually located near the bottom of the door and then unhooking from their hinges on the oven door. It’s a tricky one. But if you use gentle perseverance then you can manage it. It’s taken me years to learn my job but this bit is really quite simple with a bit of practice.
+
+If you need any advice on how to remove oven glass just call CleanOven on 01 4588885 and I will try my very best to help.
+
+Tip 4  Oven Cleaning Products I Can Recommend
+
+Depending on where you are reading this some of the brands may not sound familiar. But I will try to describe the contents more-so than the actual labels. I avoid using harsh products containing nasty chemicals like caustic soda, or to give it another name sodium hydroxide. It’s nasty and it’s very hard to get rid of once applied inside the oven. It gets into the cracks and ridges of ovens and is problematic to remove. However, I strongly recommend caustic soda for cleaning trays and stainless steel racks.
+
+Mr Proper oven cleaner comes ready made with zip-lock bags. The oven cleaning solution can be poured directly into these bags with oven trays inserted inside. I would suggest this work to be done outdoors. Odours and smells are not the worst things that can happen to you when cleaning an oven but definitely err on the side of caution when dealing with harsh cleaning products. Once the solution is washed off the oven racks, do it again. And then again. In essence, make sure to thoroughly wash the trays with a soapy liquid solution once taken out of the bags.
+
+Oven Pride comes with a zip lock bag and a solution that can be poured into the bag along with the racks and trays. I would advise you to take these bags out of the house and follow the cleaning procedure in the garden. This way none of the nasty smells are in your house and you do not have to worry so much about spilling any of the product on the floor. Always very thoroughly clean the oven racks with washing up liquid solution after they are removed from the bags.
+
+Some brands do not contain caustic substances such as Atonish oven cleaner. It’s a given that you may have to apply a little elbow grease if using a non toxic product. But with the help of a good scourer it can turn out some impressive results. A plus is the lack of nasty odours and unwanted residue. It’s one of my favourite supermarket cleaners.
+
+A lot of people think that they have to make big changes in order to live well and do well in their lives. But sometimes, even small changes can make a big difference to your standard of living. And if you keep making small changes, they add up over time to create a life that’s completely different and infinitely superior to what went before.
+
+So think before you sell your house, move cities or quit your job. Do you really need to take these steps? Wouldn’t it be equally effective for you to make small changes, such as going to sleep an hour earlier, taking a half hour walk per day or eating more fruits and vegetables?
+
+Sometimes, people do sincerely need to change things around in a big way. Most of the time, however, they just need to make small changes which will bring them more joy and improve their health. Here are a few baby steps you can take to improve your life:
+
+1. Eating Well
+
+Preparing healthy meals everyday can be quite a chore. It’s so much easier to go to the nearest drive-through and pick up a burger and fries. But over time, eating unhealthy meals can make you sluggish, dull and overweight. Most people don’t realize when this starts happening because it’s a slow process. You might notice that you’ve gained weight but you probably won’t notice that you’re not as agile as you used to be.
+
+However, when people switch from eating fast food to consuming more fruits, vegetables, nuts, white meat and complex carbohydrates, they usually find that they’re feeling more alert right away. Eating healthier makes their senses seem sharper, colors seem brighter and sounds seem clearer. It’s easier to be in the moment and enjoy life when you’re healthy.
+
+So if you’re in the habit of eating junk food, try giving it up for one day or even just one meal; you’ll notice the difference.
+
+2. Repairing Things
+
+Have you been pinning that blouse with a safety pin for a long time, rather than sewing on a button? Have you been meaning to let out a dress that’s gotten a bit tight? Does your bathtub drain need to be unclogged? Have any tiles fallen off? Do your kitchen cabinets require an update?
+
+Some repairs in your life might be small ones while others might be big. For example, you might need to get rid of those worn sofas in your living room completely. Or you might need to get your roof fixed, which can be a big chore.
+
+The truth is that if you take care of these things when they’re still small, they won’t get bigger. So start with fixing the little things and you may just find that they will lead you to the big ones.
+
+3. Little Luxuries
+
+How long have you been sitting in that uncomfortable wooden chair to work? How long have you been thinking that the lights in your bedroom are too bright? Have you been thinking that a thicker comforter or duvet would be really cozy? These are little luxuries which we tend to deny ourselves, not for any other reason but just because we get used to what we have.
+
+So look around your home and think about what things have been bothering you. Get a nicer chair or at least a cushion for that chair. Get a bedside lamp for your bedroom. Get a new comforter. Little home and furniture purchases such as these can greatly improve your standard of living, more so than that dress which you don’t need or a bigger flat-screen TV.
+
+4. Adding Color
+
+Sometimes, it helps to add a bit of color to your life, literally speaking. Seeing bright colors around you can actually make you feel better. This is the reason why people get flowers for their homes or put up artwork. No one needs flowers or artwork in order to survive. But little things such as these can subtly help you feel better throughout the day.
+
+So get some colorful cushions or an aquarium. Add a few potted plants to your windowsill. Replace those old, grayed-out curtains with newer, brighter ones.
+
+You can also do the same thing with your wardrobe. Replace all those black, grey and brown clothes with red, blue and green ones. If you don’t like wearing very bright colors, get pastels. Or you can at least brighten things up with a bit of colorful jewelry or makeup.
+
+5. Visualize
+
+Sometimes, you don’t feel like making any changes to your life. You just don’t have the energy to change things around, repair them or add color to them. In such cases, you can still visualize. When you visualize the kind of life you’re looking for, you’re changing your thought patterns to make them more positive. You’re using your imagination to create the type of existence you might be longing for.
+
+In visualization, you’re not physically doing anything but you’re mentally preparing yourself for changing things in the future. This makes you more alert. You’ll notice when an opportunity comes your way and you’ll grab it.
+
+So if you don’t feel like taking baby steps, sit down and think about what you want out of your life. What kind of career would make you happy? What kind of partner are you looking for? Do you want children? What kind of house would you like to live in? Add as many details as you can to your final picture of the perfect life. It can’t hurt you to visualize it and it may actually end up helping you.
+
+Oblique muscles not only help thin out the mid section area to give you a slimmer look but they also support lower back and thus alleviates back pain and enhances posture. Best oblique exercises consist some basic movements that stretch and shape up these muscles to give your abs a perfect and beautiful frame. Some of them are:
+
+Oblique Static Holds: Oblique static holds are a simple movement that can provide excellent toning. Lay on one side with your back straight. Then prop yourself up on the arm that is against the ground, positioning your legs straight out, one on top of the other. Hold this position for thirty seconds and then release. As you master this move and your obliques get stronger, increase the amount of time that you hold them.
+
+Side Planks With Knee Pull: To do a side plank with knee pull, go into a sideplank, stack your feet one in front of the other. Draw the back leg up towards the chest, crossing it briefly into the front. Then return the bottom leg to its original position. Repeat this several times on each side.
+
+Decline Russian Twists: Position your body on a decline bench so that you are leaning backwards with your feet facing up under the foot pad. Lift yourself up from the bench so that your core muscles are engaged. From this position you will twist your body to the left and to the right, for a given number of repetitions.
+
+Full Contact Twists: Position the bar for some free weights in the corner of the room. Then place one hand on top of the other at the top of this free weight bar, holding it up in front of you at an angle. Turn your body first to the left, bending down through the knees and drawing the bar down with you. Then pivot to the right, bending your knees and bringing the bar around in a kind of arc.
+
+Physio-ball Step Offs: To do a physioball step off, you will need a large inflated exercise ball. Begin by balancing yourself with both feet on top of the ball and your hands on the floor, arms extended. Then take one leg and bring it down off the ball, letting it touch the floor on that side of the exercise ball. Lift that leg back up onto the ball and repeat the exercise on the other side. This exercise can be done in sets of twenty reps, several times.

@@ -33,12 +33,21 @@
       </div>
       <button>Submit</button>
     </form>
-    <button type="button" onClick="generateCommonWords()">Update Common Words</button>
-    <br>
-    <button type="button" onClick="clearCommonWords()">Clear Common Words</button>
-    <br>
-    <button type="button" onClick="clearConsole()">Clear Console</button>
-    <ul id="fileList">
+    <p>
+      <input id="useFormForCommonWords" type="checkbox"> Use Form for Common words
+      <br>
+      <div id="developCommonWordsButtons">
+      <button type="button" onClick="generateCommonWords()">Update Common Words</button>
+      <br>
+      <button type="button" onClick="clearCommonWords()">Clear Common Words</button>
+      <br>
+      <button type="button" onClick="clearConsole()">Clear Console</button>
+      </div>
+    </p>
+    <p>
+      <button type="button" onclick="createWikiNav()">Create Wiki Nav</button>
+    </p>
+    <ul id="wikiNav">
     </ul>
   </body>
   <script src="form-functions.js"></script>
