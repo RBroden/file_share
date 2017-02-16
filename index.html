@@ -2,16 +2,16 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Wiki/AI Project</title>
   </head>
   <link rel="stylesheet" type="text/css" href="style.css">
   <body>
-    <h1>Hello World!</h1>
     <!--
       Using event.preventDefault(); to stop form submission
       this is not good because it could possibly cause freeze
       or cancel other processes. replace
     -->
+    <div id="compFreeMemory"></div>
     <form onsubmit="event.preventDefault(); onSubmit(); return false;">
       <select id="inputType">
         <option></option>
@@ -48,9 +48,9 @@
       <button type="button" onclick="createWikiNav()">Create Wiki Nav</button>
       <button type="button" onclick="createWikiContent()">Create Wiki Content</button>
     </p>
-    <ul id="wikiNav" style="float:left;width:30%;">
+    <ul id="wikiNav" style="float:left;width:20%;">
     </ul>
-    <div id="wikiContent" style="margin-left:30%;">
+    <div id="wikiContent" style="margin-left:25%;">
     </div>
   </body>
   <script src="form-functions.js"></script>

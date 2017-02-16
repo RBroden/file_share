@@ -9,6 +9,8 @@ const os = require('os')
 const fs = require('fs')
 // directory/path module
 const path = require('path')
+// jquery
+const $ = require('jquery')
 // declare file for tags
 const tagsFile = "./onload/tags.json";
 
@@ -29,6 +31,34 @@ fs.readdir(homeDir,(err,contents)=>{
   End tests for searching file system
 */
 
+// Begin Timed Background Processes
+var backgroundTimer = setInterval(()=>{
+  let now = new Date();
+  let freeMemory = os.freemem();
+  let totalMemory = os.totalmem();
+  let freeMemoryPercent = freeMemory/totalMemory;
+  $('#compFreeMemory').html(`
+      <div>
+        <span>Free Memory: ${freeMemory} / ${totalMemory}<span> |
+        <span>Today: ${(now.getMonth()+1)}/${now.getDate()}/${now.getFullYear()} </span>
+        <span>${now.getHours()}:${now.getMinutes()}:${now.getSeconds()}</span>
+      </div>
+      <div style="display:inline-block;width:300px;height:20px;background:#333;">
+        <span style="display:inline-block;width:${300*freeMemoryPercent}px;height:20px;text-align:right;color:#fff;background:#090;">
+          ${(freeMemoryPercent*100).toFixed(2)}%
+        </span>
+      </div>
+    `);
+
+},50);
+// End Timed Background Processes
+
+// Begin Watching analyzedDocuments Directory
+fs.watch('./analyzedDocuments', (eventType, filename) => {
+  console.log(`analyzedDocuments event: ${eventType} for ${filename}`);
+});
+// End Watching analyzedDocuments Directory
+
 exports.test = function(message){
   console.log("test"+message);
 };
@@ -37,6 +67,7 @@ exports.onload = function(){
   fs.readFile(tagsFile, (err, data)=>{
     let tags = JSON.parse(data);
     let navElem = document.getElementById("wikiNav");
+    let count = 0;
     for(let tag of tags){
       // update navigation
       // using backticks for multiple line string
@@ -48,6 +79,7 @@ exports.onload = function(){
           </span>
         </li>
         `;
+      if(++count > 15) break;
     }
   });
 };
@@ -101,18 +133,36 @@ exports.generateWikiNav = function(){
         if(document.hasOwnProperty('tags')){
           // iterate through document tags
           for(let tag of document.tags){
+            // count occurences of tag in document
+            let occurences = (()=>{
+              // document has content
+              if(document.hasOwnProperty('content')){
+                let tagSearch = new RegExp(tag, 'g');
+                return (
+                  document.content.toLowerCase().match(tagSearch) || []
+                ).length;
+              }
+              // document has no content
+              return 0;
+            })();
             // update wiki tag list
-            updateWikiTags(tag);
+            updateWikiTags(tag, occurences);
           }
         }
       }
       // end file iteration
     }
 
+    // sort wiki tags by occurences
+    wikiTags.sort((a,b)=>{
+      return parseInt(b.total) - parseInt(a.total);
+    });
+
     // sort wiki tags by count
     wikiTags.sort((a,b)=>{
-      return parseInt(b.count) - parseInt(a.count);
+      return parseInt(b.tagCount) - parseInt(a.tagCount);
     });
+
     // review wiki tags in console
     console.log(wikiTags);
     // update wiki nav element
@@ -141,17 +191,19 @@ exports.generateWikiNav = function(){
     });
 
     // function for updating wiki tag list
-    function updateWikiTags(tag){
+    function updateWikiTags(tag, occurences){
       for(let i = 0; i < wikiTags.length; ++i){
         if(wikiTags[i].value == tag){
-          ++wikiTags[i].count;
+          ++wikiTags[i].tagCount;
+          wikiTags[i].total += occurences;
           return;
         }
       }
       wikiTags.push(
         {
           value: tag,
-          count: 1
+          tagCount: 1,
+          total: occurences
         }
       );
     }

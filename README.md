@@ -1,4 +1,6 @@
-# electron-quick-start
+# WikiAI
+
+**ANNOUNCEMENT: Our first milestone is complete!**
 
 **Clone and run for a quick way to see Electron in action.**
 
