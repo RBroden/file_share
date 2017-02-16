@@ -3,30 +3,53 @@
 // All of the Node.js APIs are available in this process.
 
 
-
+// operating system module
+const os = require('os')
 // file system module
 const fs = require('fs')
+// directory/path module
+const path = require('path')
+// declare file for tags
+const tagsFile = "./onload/tags.json";
 
-
-// read directory /share. returns array of files named files
 /*
-fs.readdir("./share",(err,files)=>{
-  console.log(files)
-  // assign element #fileList to variable
-  var list = document.getElementById("fileList");
+  Begin tests for searching file system
+*/
+// get home directory
+let homeDir = os.homedir()
+console.log(homeDir)
 
-  // iterate through files array
-  for(let file of files){
-    // output file name to element #fileList
-    list.innerHTML += "<li>"+file+"</li>";
-  }
-
+// read home directory. returns array of files named files
+fs.readdir(homeDir,(err,contents)=>{
+  // contents is an array of directories/files from home directory
+  console.log(contents)
   // end fs.readdir
 });
+/*
+  End tests for searching file system
 */
 
 exports.test = function(message){
   console.log("test"+message);
+};
+
+exports.onload = function(){
+  fs.readFile(tagsFile, (err, data)=>{
+    let tags = JSON.parse(data);
+    let navElem = document.getElementById("wikiNav");
+    for(let tag of tags){
+      // update navigation
+      // using backticks for multiple line string
+      // better for html and allows template literals
+      navElem.innerHTML += `
+        <li>
+          <span onclick="loadContent('${tag.value}')">
+            ${tag.value}
+          </span>
+        </li>
+        `;
+    }
+  });
 };
 
 exports.saveAnalyzedDocument = function(document){
@@ -62,6 +85,8 @@ exports.generateWikiNav = function(){
     // assign element #fileList to variable
     let navElem = document.getElementById("wikiNav");
     let wikiTags = [];
+    let limit = 10;
+    let count = 0;
 
     // clear wikiNav innerHTML for new listens
     navElem.innerHTML = "";
@@ -96,9 +121,24 @@ exports.generateWikiNav = function(){
       // using backticks for multiple line string
       // better for html and allows template literals
       navElem.innerHTML += `
-        <li><a>${wikiTag.value}</a></li>
+        <li>
+          <span onclick="loadContent('${wikiTag.value}')">
+            ${wikiTag.value}
+          </span>
+        </li>
         `;
     }
+
+    fs.writeFile(
+      tagsFile,
+      JSON.stringify(wikiTags),
+      function(err) {
+        if(err) {
+            console.log(err);
+        }
+
+        console.log("The wiki tags were saved!");
+    });
 
     // function for updating wiki tag list
     function updateWikiTags(tag){
@@ -118,4 +158,66 @@ exports.generateWikiNav = function(){
 
     // end fs.readdir
   });
+};
+
+exports.generateWikiContent = function(){
+  console.log('generateContent');
+
+  // get tags - use readFileSync for synchronous readFile
+  // this is to prevent callbacks and nothing can be done
+  // until this is done
+  fs.readFile(tagsFile, (err, data)=>{
+    let tags = JSON.parse(data);
+    fs.readdir("./analyzedDocuments",(err,files)=>{
+      for(let tag of tags){
+
+        let tagFile = {
+          name: tag.value,
+          content: []
+        };
+
+        for(let file of files){
+
+          // check if file is json
+          if(file.substring(file.length - 5) == '.json'){
+            // load document
+            let document = require("./analyzedDocuments/"+file);
+
+            if(document.hasOwnProperty('content')){
+              let sentences = document.content.split(/[\.!\?]+/);
+              for(let sentence of sentences){
+                if(sentence.toLowerCase().indexOf(tag.value)!=-1){
+                  tagFile.content.push(sentence);
+                }
+              }
+            }
+
+
+            // end if json condition
+          }
+          // end file iteration
+        }
+
+        //console.log(tagFile);
+
+        // write tag content file
+        fs.writeFile(
+          './onload/previews/'+tag.value+'.json',
+          JSON.stringify(tagFile),
+          function(err) {
+            if(err) {
+                console.log(err);
+            }
+
+            console.log("The "+tag.value+" tag file was saved!");
+        });
+
+        // end of tag iteration
+      }
+
+      // end of read analyzedDocuments directory
+    });
+    // end of read tagsFile
+  });
+
 };

@@ -1,7 +1,10 @@
 // rob's branch
 const renderer = require('./renderer.js')
 const $ = require('jquery')
-renderer.test("hi")
+
+// onload process
+renderer.onload()
+
 /*
  * Use select element #inputType to change view of input
 */
@@ -298,6 +301,25 @@ function clearConsole(){
 
 function createWikiNav(){
   renderer.generateWikiNav();
+}
+
+function createWikiContent(){
+  renderer.generateWikiContent();
+}
+
+function loadContent(content){
+  $.ajax({
+    url: './onload/previews/'+content+'.json'
+  }).done((response)=>{
+    let file = JSON.parse(response);
+    //console.log(file.content);
+    $('#wikiContent').html('');
+    for(let article of file.content){
+      $('#wikiContent').append(
+        '<p>'+article+'</p>'
+      );
+    }
+  });
 }
 
 function createWordObject(word){
