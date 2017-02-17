@@ -16,6 +16,8 @@ const tagsFile = "./onload/tags.json";
 
 /*
   Begin tests for searching file system
+  This will be part of the module that will
+  go through a client/server system and analyze documents
 */
 // get home directory
 let homeDir = os.homedir()
@@ -31,10 +33,26 @@ fs.readdir(homeDir,(err,contents)=>{
   End tests for searching file system
 */
 
-// Begin Timed Background Processes
+/*
+  Begin Timed Background Processes
+  Below is a background process for monitoring OS
+  Seperate background processes can be made for
+  updating files
+*/
 var backgroundTimer = setInterval(()=>{
+  /*
+    Get date/time
+    Use this to activate scheduled processes
+  */
   let now = new Date();
+  /*
+    Get system information
+    Use this to determine whether or not to stop
+    a process
+  */
+  // get system free memory
   let freeMemory = os.freemem();
+  // get system total memory
   let totalMemory = os.totalmem();
   let freeMemoryPercent = freeMemory/totalMemory;
   $('#compFreeMemory').html(`
@@ -54,20 +72,33 @@ var backgroundTimer = setInterval(()=>{
 // End Timed Background Processes
 
 // Begin Watching analyzedDocuments Directory
+/*
+  Certain events will be used to update files for app
+  Adding a file triggers a rename and change event
+  However, for adding documents through the apps
+  we should update the files for the app during that process
+*/
 fs.watch('./analyzedDocuments', (eventType, filename) => {
   console.log(`analyzedDocuments event: ${eventType} for ${filename}`);
 });
 // End Watching analyzedDocuments Directory
 
+// test message does nothing
 exports.test = function(message){
   console.log("test"+message);
 };
 
+/*
+  This function is used when the app starts
+*/
 exports.onload = function(){
+  // read tags file
   fs.readFile(tagsFile, (err, data)=>{
+    // parse JSON from tags file
     let tags = JSON.parse(data);
     let navElem = document.getElementById("wikiNav");
     let count = 0;
+    // iterate through tags
     for(let tag of tags){
       // update navigation
       // using backticks for multiple line string
@@ -79,11 +110,13 @@ exports.onload = function(){
           </span>
         </li>
         `;
+      // only show 15 tags
       if(++count > 15) break;
     }
   });
 };
 
+// writes input to a file in analyzedDocuments directory
 exports.saveAnalyzedDocument = function(document){
   var timeInMs = String(Date.now());
   fs.writeFile(
@@ -98,6 +131,9 @@ exports.saveAnalyzedDocument = function(document){
   });
 };
 
+// writes common words to a file
+// currently triggered by user
+// should be background process
 exports.generateCommonWords = function(commonWords){
   fs.writeFile(
     "./onload/commonWords.json",
@@ -111,14 +147,16 @@ exports.generateCommonWords = function(commonWords){
   });
 };
 
+// writes tags to a wiki nav file
+// currently triggered by user
+// should be background process
 exports.generateWikiNav = function(){
   console.log("generateWikiNav");
   fs.readdir("./analyzedDocuments",(err,files)=>{
     // assign element #fileList to variable
     let navElem = document.getElementById("wikiNav");
+    // array of wiki tags
     let wikiTags = [];
-    let limit = 10;
-    let count = 0;
 
     // clear wikiNav innerHTML for new listens
     navElem.innerHTML = "";
@@ -137,9 +175,16 @@ exports.generateWikiNav = function(){
             let occurences = (()=>{
               // document has content
               if(document.hasOwnProperty('content')){
+                // create regular expression to find tag in string
                 let tagSearch = new RegExp(tag, 'g');
                 return (
-                  document.content.toLowerCase().match(tagSearch) || []
+                  // use tagSearch regular expression
+                  // to find tag in document content
+                  // return length of array of matches
+                  // will return 0 if none because of OR
+                  document.content
+                    .toLowerCase()
+                    .match(tagSearch) || []
                 ).length;
               }
               // document has no content
@@ -192,6 +237,8 @@ exports.generateWikiNav = function(){
 
     // function for updating wiki tag list
     function updateWikiTags(tag, occurences){
+      // search for tag
+      // if found, update tag
       for(let i = 0; i < wikiTags.length; ++i){
         if(wikiTags[i].value == tag){
           ++wikiTags[i].tagCount;
@@ -199,6 +246,7 @@ exports.generateWikiNav = function(){
           return;
         }
       }
+      // if not found, add tag
       wikiTags.push(
         {
           value: tag,
@@ -212,6 +260,9 @@ exports.generateWikiNav = function(){
   });
 };
 
+// writes relevant content to files by tag name
+// currently triggered by user
+// should be background process
 exports.generateWikiContent = function(){
   console.log('generateContent');
 
@@ -221,13 +272,17 @@ exports.generateWikiContent = function(){
   fs.readFile(tagsFile, (err, data)=>{
     let tags = JSON.parse(data);
     fs.readdir("./analyzedDocuments",(err,files)=>{
+      // for each tag in tags file
       for(let tag of tags){
 
+        // this is the object
+        // that will be used for tag JSON file
         let tagFile = {
           name: tag.value,
           content: []
         };
 
+        // iterate through files in analyzedDocuments
         for(let file of files){
 
           // check if file is json
