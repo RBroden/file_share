@@ -33,6 +33,8 @@ $.ajax({
   console.log("on load common words");
   console.log(commonWords);
 });
+// HTML node types, for processURL
+let nodeTypes = [];
 
 
 // event listener for select #inputType onchange
@@ -48,6 +50,8 @@ selectInputType.addEventListener("change", function(){
   inputUrlArea.style.display = hideStyle;
   // change #inputDocument display to hideStyle
   inputDocumentArea.style.display = hideStyle;
+  // hide inputUrl's iframe
+  $('#processUrl_iframe').hide();
 
   switch(selectInputType.value){
     case 'text':
@@ -56,6 +60,7 @@ selectInputType.addEventListener("change", function(){
 
     case 'url':
       inputUrlArea.style.display = showStyle;
+      //$('#processUrl_iframe').show();
       break;
 
     case 'document':
@@ -205,10 +210,162 @@ function processUrl(){
     url: url
   }).done((response)=>{
     // will take a bit
-    console.log(response);
+    //console.log(response);
+    let html = $.parseHTML(response);
+
+    // put url in iframe
+    // possibly recreate document using stylesheets
+    // in iframe rather than actually displaying the site in iframes
+    // possibly save html to a file and then attempt to get stylesheets
+    // from previous site. Once that is done. Add that temp page
+    // to iframe and compute its styles
+    //$('#processUrl_iframe').attr("src",url);
+    // using the actual site, triggers all the scripts too
+    // saving the file and then just using css will get the styles
+    // however it won't render dom style changing scripts
+    // an issue with displaying the site in an iframe is the site
+    // can prevent this. recreating the page gets around that
+    // we could also render scripts this way
+
+
+    // show first element
+    //console.log(html[0]);
+    // go through each element node in html
+
+    $.each( html, (i, el)=>{
+
+      processURL_node(el);
+
+      // end of iterating through elements
+    });
+
+    console.log(nodeTypes);
+
   });
   // end of processUrl
 }
+
+// begining of parseURL function library
+// eventually make this its own file
+function processURL_node(el){
+  //console.log(el.nodeName);
+  // search nodeTypes (global) array for nodeName
+  // if it doesn't exist, add to array of nodeTypes
+  /* OLD
+  if( nodeTypes.indexOf(el.nodeName) == -1){
+    nodeTypes.push(el.nodeName);
+  }
+  */
+  // NEW
+  if(processURL_indexOfNode(el) != -1){
+    //console.log("update "+el.nodeName);
+    processURL_updateNode(el);
+  }
+  else{
+    //console.log("add "+el.nodeName);
+    //console.log(el.attributes);
+    //console.log(el.attributes[0]);
+    processURL_addNode(el);
+  }
+
+  switch(el.nodeName){
+    case '#text':
+      //processURL_text(el);
+      break;
+  }
+
+  // show trimmed textContent
+  /*
+  THIS BLOCK WILL GET PARAGRAPHS FROM textContent
+  BUT WILL NOT GATHER ALL INFORMATION ABOUT NODES
+  let content = $.trim(el.textContent);
+  if(content != ""){
+    console.log(el.nodeName+" textContent");
+    //console.log(content));
+    let paragraphs =
+      content
+        .split("\n")
+        .filter(filterEmptyString);
+
+    // sort paragraphs by length descending
+    // the idea being that paragraphs w/ most content
+    // will also be the most relevant
+    paragraphs.sort((a,b)=>{
+      return b.length - a.length;
+    });
+
+    console.log(paragraphs);
+  }
+  */
+
+  // recursively process nodes
+  if(el.childNodes.length > 0){
+    //console.log(el.nodeName+" children");
+    //console.log(el.childNodes);
+    for(let child of el.childNodes){
+      processURL_node(child);
+    }
+  }
+  // end processURL_node
+}
+
+function processURL_text(el){
+  //console.log(el.textContent);
+}
+
+function processURL_addNode(el){
+  //console.log(Object.keys(el));
+
+  // will display html inside element
+  // we have to analyze the content
+  // to determine whether this has html content
+  // is block elements or inline elements
+  // if it is inline elements
+  // save the content
+  console.log($(el).html());
+
+  // if a new nodeType, push to nodeTypes array
+  nodeTypes.push({
+    nodeName : el.nodeName,
+    nodeType : el.nodeType,
+    occurences : []
+  });
+  // update node with the current occurence
+  processURL_updateNode(el);
+}
+
+function processURL_updateNode(el){
+  // get index of nodeType from nodeTypes array
+  let indexOfNode = processURL_indexOfNode(el);
+  //console.log("Update "+el.nodeName+" at index "+indexOfNode);
+  // push node occurence to appropriate nodeType
+  nodeTypes[indexOfNode].occurences.push({
+    // use IIFE to return array of attributes
+    attributes: (()=>{
+      if(!el.attributes){
+        return null;
+      }
+      let attributes = {};
+      for(let i = 0; i < el.attributes.length; ++i){
+        let attr = el.attributes[i];
+        attributes[attr.name] = attr.value;
+      }
+      return attributes;
+    })(),
+    childElementCount : el.childElementCount
+  });
+}
+
+function processURL_indexOfNode(el){
+  for(let i=0; i < nodeTypes.length; ++i){
+    if(el.nodeName == nodeTypes[i].nodeName){
+      return i;
+    }
+  }
+  return -1;
+}
+
+// end of parseURL function library
 
 
 function findCommonWords(){
@@ -331,4 +488,8 @@ function checkWord(word){
     return true;
   }
   return false;
+}
+
+function filterEmptyString(string){
+  return $.trim(string) != "";
 }
