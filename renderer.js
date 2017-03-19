@@ -131,6 +131,47 @@ exports.saveAnalyzedDocument = function(document){
   });
 };
 
+// writes input to a file in analyzedURLDocuments directory
+exports.saveAnalyzedURLDocument = function(document){
+  var timeInMs = String(Date.now());
+  fs.writeFile(
+    "./analyzedURLDocuments/"+timeInMs+".json",
+    JSON.stringify(document),
+    function(err) {
+      if(err) {
+          return console.log(err);
+      }
+
+      console.log("The URL file was saved!");
+  });
+};
+
+// writes URL input to a file in iframe directory
+exports.saveURLDocument = function(document){
+  $('#processUrl_iframe').attr("src","");
+  $('#processUrl_iframe').attr("onload","");
+  var timeInMs = String(Date.now());
+  fs.writeFile(
+    "./iframe/"+timeInMs+".html",
+    document,
+    function(err) {
+      if(err) {
+          console.log(err);
+      }
+      console.log("The file was saved!");
+      $('#processUrl_iframe').attr("src","./iframe/"+timeInMs+".html");
+      $('#processUrl_iframe').attr("onload","tryThis()");
+      return "./iframe/"+timeInMs+".html";
+  });
+
+};
+
+exports.deleteURLDocument = function(path){
+  fs.unlink(path,()=>{
+    console.log(path+" deleted");
+  });
+}
+
 // writes common words to a file
 // currently triggered by user
 // should be background process

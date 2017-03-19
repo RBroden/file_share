@@ -60,7 +60,7 @@ selectInputType.addEventListener("change", function(){
 
     case 'url':
       inputUrlArea.style.display = showStyle;
-      //$('#processUrl_iframe').show();
+      $('#processUrl_iframe').show();
       break;
 
     case 'document':
@@ -211,8 +211,31 @@ function processUrl(){
   }).done((response)=>{
     // will take a bit
     //console.log(response);
-    let html = $.parseHTML(response);
+    let htmlString = response;
+    let scriptRegex = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi;
+    let iframeRegex = /<iframe\b[^<]*(?:(?!<\/iframe>)<[^<]*)*<\/iframe>/gi;
+    let linkRegex = /<link([\w\W]+?)[\/]?>/gi;
+    let imgRegex = /<img([\w\W]+?)[\/]?>/gi;
+    let htmlClean = htmlString.replace(scriptRegex,"");
+    htmlClean = htmlClean.replace(iframeRegex,"");
+    htmlClean = htmlClean.replace(linkRegex,"");
+    htmlClean = htmlClean.replace(imgRegex,"");
+    renderer.saveURLDocument(htmlClean);
 
+    let html = $.parseHTML(response);
+    /*
+    let page_content = $(response)
+                        .clone()
+                        .find("script,noscript,iframe")
+                        .remove()
+                        .end
+                        .html();
+    console.log(page_content);
+    let $iframe = $('#processUrl_iframe');
+    $iframe.ready(()=>{
+      $iframe.contents().find("body").append("Test");
+    });
+    */
     // put url in iframe
     // possibly recreate document using stylesheets
     // in iframe rather than actually displaying the site in iframes
@@ -234,15 +257,58 @@ function processUrl(){
 
     $.each( html, (i, el)=>{
 
-      processURL_node(el);
+      //processURL_node(el);
 
       // end of iterating through elements
     });
 
-    console.log(nodeTypes);
+    //console.log(nodeTypes);
 
   });
   // end of processUrl
+}
+
+function tryThis(){
+  //console.log("TRY this");
+  let $iframe = $('#processUrl_iframe');
+
+  //$iframe.contents().find("body").append("Test");
+  /*
+  $.each( $iframe.contents(), (i, el)=>{
+
+    processURL_node(el);
+
+    // end of iterating through elements
+  });
+  */
+  //console.log($iframe.contents().find('body').contents());
+  let iframeContents = $iframe.contents().find('body').contents();
+  //console.log(iframeContents);
+  for(let element of iframeContents){
+    //console.log(element);
+    processURL_node(element);
+  }
+  console.log(nodeTypes);
+  renderer.saveAnalyzedURLDocument(nodeTypes);
+  renderer.deleteURLDocument($iframe.attr('src'));
+  // reset nodeTypes
+  nodeTypes = [];
+
+  /*
+  $('#processUrl_iframe').contents().find('body').contents().each(()=>{
+    console.log(this.nodeType);
+    if(this.nodeType == 3){
+      //processURL_node(this);
+    }
+  });
+  */
+  //processURL_node($iframe.contents().find('html'));
+  /*
+  $iframe.contents().contentWindow.each(()=>{
+    console.log(this);
+    //processURL_node(el);
+  });
+  */
 }
 
 // begining of parseURL function library
@@ -267,12 +333,13 @@ function processURL_node(el){
     //console.log(el.attributes[0]);
     processURL_addNode(el);
   }
-
+  /*
   switch(el.nodeName){
     case '#text':
       //processURL_text(el);
       break;
   }
+  */
 
   // show trimmed textContent
   /*
@@ -322,7 +389,7 @@ function processURL_addNode(el){
   // is block elements or inline elements
   // if it is inline elements
   // save the content
-  console.log($(el).html());
+  //console.log($(el).html());
 
   // if a new nodeType, push to nodeTypes array
   nodeTypes.push({
@@ -352,7 +419,74 @@ function processURL_updateNode(el){
       }
       return attributes;
     })(),
-    childElementCount : el.childElementCount
+    childElementCount : el.childElementCount,
+    display: (()=>{
+      if(el.nodeType == 1){
+        let style = window.getComputedStyle(el, null);
+        return style.getPropertyValue("display");
+      }
+      else{
+        return null;
+      }
+    })(),
+    innerHTML: (()=>{
+
+      // guard
+      if(el.nodeType != 1){
+        return null;
+      }
+
+      if(el.childNodes.length > 0){
+        //console.log(el.nodeName+" children");
+        //console.log(el.childNodes);
+        for(let child of el.childNodes){
+
+          if(child.nodeType == 1){
+            let childStyle = window.getComputedStyle(child, null);
+            // there are a million block like elements
+            // block, list-item, etc. so we just look for inline
+            if(childStyle.getPropertyValue("display") != "inline"){
+              return null;
+            }
+          }
+
+        }
+      }
+
+      // if it has children, iteration proves it has no block children
+      // so at this point, this element has no children or no block children
+      return $(el).html();
+
+    })(),
+    text: (()=>{
+
+      // guard
+      if(el.nodeType != 1){
+        return null;
+      }
+
+      if(el.childNodes.length > 0){
+        //console.log(el.nodeName+" children");
+        //console.log(el.childNodes);
+        for(let child of el.childNodes){
+
+          if(child.nodeType == 1){
+            let childStyle = window.getComputedStyle(child, null);
+            // there are a million block like elements
+            // block, list-item, etc. so we just look for inline
+            if(childStyle.getPropertyValue("display") != "inline"){
+              return null;
+            }
+          }
+
+        }
+      }
+
+      // if it has children, iteration proves it has no block children
+      // so at this point, this element has no children or no block children
+      return el.textContent;
+
+    })()
   });
 }
 
