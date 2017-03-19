@@ -256,7 +256,6 @@ function processUrl(){
     // go through each element node in html
 
     $.each( html, (i, el)=>{
-
       //processURL_node(el);
 
       // end of iterating through elements
