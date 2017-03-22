@@ -35,6 +35,7 @@ $.ajax({
 });
 // HTML node types, for processURL
 let nodeTypes = [];
+let nodeIndex = 0;
 
 
 // event listener for select #inputType onchange
@@ -188,6 +189,7 @@ function processText(){
   analyzedDocuments.push(analyzedDocument);
 
   // search for word in array words
+  // updateWords for processText
   function updateWords(word){
     analyzedDocument.wordCount++;
     for(let i = 0; i < analyzedDocument.words.length; i++){
@@ -223,63 +225,14 @@ function processUrl(){
     renderer.saveURLDocument(htmlClean);
 
     let html = $.parseHTML(response);
-    /*
-    let page_content = $(response)
-                        .clone()
-                        .find("script,noscript,iframe")
-                        .remove()
-                        .end
-                        .html();
-    console.log(page_content);
-    let $iframe = $('#processUrl_iframe');
-    $iframe.ready(()=>{
-      $iframe.contents().find("body").append("Test");
-    });
-    */
-    // put url in iframe
-    // possibly recreate document using stylesheets
-    // in iframe rather than actually displaying the site in iframes
-    // possibly save html to a file and then attempt to get stylesheets
-    // from previous site. Once that is done. Add that temp page
-    // to iframe and compute its styles
-    //$('#processUrl_iframe').attr("src",url);
-    // using the actual site, triggers all the scripts too
-    // saving the file and then just using css will get the styles
-    // however it won't render dom style changing scripts
-    // an issue with displaying the site in an iframe is the site
-    // can prevent this. recreating the page gets around that
-    // we could also render scripts this way
-
-
-    // show first element
-    //console.log(html[0]);
-    // go through each element node in html
-
-    $.each( html, (i, el)=>{
-      //processURL_node(el);
-
-      // end of iterating through elements
-    });
-
-    //console.log(nodeTypes);
 
   });
   // end of processUrl
 }
 
+// used for processUrl, triggers after iframe change
 function tryThis(){
-  //console.log("TRY this");
   let $iframe = $('#processUrl_iframe');
-
-  //$iframe.contents().find("body").append("Test");
-  /*
-  $.each( $iframe.contents(), (i, el)=>{
-
-    processURL_node(el);
-
-    // end of iterating through elements
-  });
-  */
   //console.log($iframe.contents().find('body').contents());
   let iframeContents = $iframe.contents().find('body').contents();
   //console.log(iframeContents);
@@ -287,41 +240,129 @@ function tryThis(){
     //console.log(element);
     processURL_node(element);
   }
+
+  // #########################
+
   console.log(nodeTypes);
-  renderer.saveAnalyzedURLDocument(nodeTypes);
+  let articleNodes = [];
+  let analyzedURLDocument = {
+    words: [],
+    wordCount: 0,
+    tags: []
+  };
+  // begin to analyze URL document
+  for(let nodeType of nodeTypes){
+    //console.log(nodeType);
+
+    // sort words descending by count
+    nodeType.occurences.sort((a,b)=>{
+      return
+        parseInt((b.text.length)?b.text.length:0) -
+        parseInt((a.text.length)?a.text.length:0);
+    });
+
+    for(let occurence of nodeType.occurences){
+      // guard
+      if(occurence.text == null) continue;
+
+      let sentences = occurence.text.split(/[\.!\?]+/);
+      if(sentences.length > 2){
+        occurence.nodeName = nodeType.nodeName;
+        occurence.sentenceCount = sentences.length;
+        articleNodes.push(occurence);
+
+        for(let sentence of sentences){
+          // split sentence into words
+          let sentenceWords = sentence.split(' ');
+          // itereate over words
+          for(let word of sentenceWords){
+            // update analyzedDocument words array
+            // NEEDS SANITIZATION
+            if(checkWord(word)){
+              updateWords(word);
+            }
+            // end of iterate words
+          }
+          // end of iterate sentences
+        }
+
+      }
+
+    }
+
+  }
+
+  // sort words descending by count
+  analyzedURLDocument.words.sort((a,b)=>{
+    return parseInt(b.count) - parseInt(a.count);
+  });
+
+  // Populate tags array
+  if(commonWords.length > 0){
+    let tagCount = 0;
+    loop1:
+    for(let i=0; i < analyzedURLDocument.words.length; ++i){
+      //let tagAdd = false;
+      if(analyzedURLDocument.tags.length == 5){
+        break loop1;
+      }
+      loop2:
+      for(let j=0; j< commonWords.length; ++j){
+        if(analyzedURLDocument.words[i].value ==
+          commonWords[j].value){
+          //console.log("fount");
+          //tagAdd = true;
+          //break loop2;
+          continue loop1;
+        }
+      }
+      //if(!tagAdd){
+        analyzedURLDocument.tags[tagCount] =
+        analyzedURLDocument.words[i].value;
+        ++tagCount;
+      //}
+    //iterate over words and search if !exists in commonWords
+    //if it does not exist in commonWords add to tags
+    }
+  }
+
+  // updateWords for processURL
+  function updateWords(word){
+    for(let i = 0; i < analyzedURLDocument.words.length; i++){
+      if(analyzedURLDocument.words[i].value == word){
+        analyzedURLDocument.words[i].count++;
+        return true;
+      }
+    }
+    analyzedURLDocument.words.push(createWordObject(word));
+  }
+
+  // sort articleNodes by nodeIndex
+  articleNodes.sort((a,b)=>{
+    return
+      parseInt(b.nodeIndex) - parseInt(a.nodeIndex);
+  });
+
+  console.log(articleNodes);
+
+  // #### END ###############
+
+  // save analyzed URL document
+  renderer.saveAnalyzedURLDocument({
+    url: $('#inputUrl').val(),
+    tags: analyzedURLDocument.tags,
+    articleNodes: articleNodes,
+    nodes: nodeTypes
+  });
   renderer.deleteURLDocument($iframe.attr('src'));
   // reset nodeTypes
   nodeTypes = [];
-
-  /*
-  $('#processUrl_iframe').contents().find('body').contents().each(()=>{
-    console.log(this.nodeType);
-    if(this.nodeType == 3){
-      //processURL_node(this);
-    }
-  });
-  */
-  //processURL_node($iframe.contents().find('html'));
-  /*
-  $iframe.contents().contentWindow.each(()=>{
-    console.log(this);
-    //processURL_node(el);
-  });
-  */
 }
 
 // begining of parseURL function library
 // eventually make this its own file
 function processURL_node(el){
-  //console.log(el.nodeName);
-  // search nodeTypes (global) array for nodeName
-  // if it doesn't exist, add to array of nodeTypes
-  /* OLD
-  if( nodeTypes.indexOf(el.nodeName) == -1){
-    nodeTypes.push(el.nodeName);
-  }
-  */
-  // NEW
+  //
   if(processURL_indexOfNode(el) != -1){
     //console.log("update "+el.nodeName);
     processURL_updateNode(el);
@@ -332,37 +373,6 @@ function processURL_node(el){
     //console.log(el.attributes[0]);
     processURL_addNode(el);
   }
-  /*
-  switch(el.nodeName){
-    case '#text':
-      //processURL_text(el);
-      break;
-  }
-  */
-
-  // show trimmed textContent
-  /*
-  THIS BLOCK WILL GET PARAGRAPHS FROM textContent
-  BUT WILL NOT GATHER ALL INFORMATION ABOUT NODES
-  let content = $.trim(el.textContent);
-  if(content != ""){
-    console.log(el.nodeName+" textContent");
-    //console.log(content));
-    let paragraphs =
-      content
-        .split("\n")
-        .filter(filterEmptyString);
-
-    // sort paragraphs by length descending
-    // the idea being that paragraphs w/ most content
-    // will also be the most relevant
-    paragraphs.sort((a,b)=>{
-      return b.length - a.length;
-    });
-
-    console.log(paragraphs);
-  }
-  */
 
   // recursively process nodes
   if(el.childNodes.length > 0){
@@ -407,6 +417,7 @@ function processURL_updateNode(el){
   // push node occurence to appropriate nodeType
   nodeTypes[indexOfNode].occurences.push({
     // use IIFE to return array of attributes
+    nodeIndex: nodeIndex++,
     attributes: (()=>{
       if(!el.attributes){
         return null;
